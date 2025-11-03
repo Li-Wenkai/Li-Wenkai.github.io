@@ -38,7 +38,7 @@ My journey in astronomy began as a passionate amateur astronomer, culminating in
 - Active Galactic Nuclei: review on MCMC & AGN (in Chinese)
 - For a deeper dive, please see my [projects](/projects/).
 
-My research has been conducted at USTC under the mentorship of Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3621) (Prof. [Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group), and at Steward Observatory guided by Prof. [Ann Zabludoff](https://azabludoff.wixsite.com/home).
+My research has been conducted at USTC mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3621) (Prof. [Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group), and at Steward Observatory guided by Prof. [Ann Zabludoff](https://azabludoff.wixsite.com/home).
 
 **Beyond Research:**
 

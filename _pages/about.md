@@ -29,6 +29,8 @@ My astronomy journey began as a passionate amateur astronomer, culminating in [a
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 
+My research has been conducted at USTC mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3621) (Prof. [Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group), and at Steward Observatory guided by Prof. [Ann Zabludoff](https://azabludoff.wixsite.com/home).
+
 **Research Areas:**
 
 - Tidal Disruption Events & Intermediate-Mass Black Holes: EP240222a model, Ansky as a TDE
@@ -37,8 +39,6 @@ My astronomy journey began as a passionate amateur astronomer, culminating in [a
 - Astronomy Tools: USTC-astrXiv
 - Active Galactic Nuclei: review on MCMC & AGN (in Chinese)
 - For a deeper dive, please see my [projects](/projects/).
-
-My research has been conducted at USTC mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3621) (Prof. [Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group), and at Steward Observatory guided by Prof. [Ann Zabludoff](https://azabludoff.wixsite.com/home).
 
 **Beyond Research:**
 

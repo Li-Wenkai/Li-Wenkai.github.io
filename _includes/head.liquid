@@ -189,26 +189,26 @@
 {% endif %}
 
 <style>
-  .pixel-logo { /* <--- 修改了这里, 匹配你的 HTML */
-    width: 16px;
-    height: 16px; /* 保持 16x16 画布 */
-  }
-  .pixel-logo .pixel-row { /* <--- 修改了这里, 匹配你的 HTML */
-    display: flex;
-    width: 100%;
-    height: 1px; /* 你的 logo 有 13 行, 这会使它高度为 13px */
-  }
-  .pixel-logo .pixel-row > div { /* <--- 修改了这里, 匹配你的 <div> */
-    width: 1px;
-    height: 1px;
-  }
-  .pixel-logo .p-1 { /* <--- 修改了这里, 匹配你的 HTML */
-    background-color: #003366;
-  } /* Default color */
-  @media (prefers-color-scheme: dark) {
-    .pixel-logo .p-1 { /* <--- 修改了这里, 匹配你的 HTML */
-      background-color: #ffffff;
-    } /* Dark mode color */
-  }
+  .pixel-logo { /* <--- 修改了这里, 匹配你的 HTML */
+    width: 16px;
+    height: 16px; /* 保持 16x16 画布 */
+  }
+  .pixel-logo .pixel-row { /* <--- 修改了这里, 匹配你的 HTML */
+    display: flex;
+    width: 100%;
+    height: 1px; /* 你的 logo 有 13 行, 这会使它高度为 13px */
+  }
+  .pixel-logo .pixel-row > div { /* <--- 修改了这里, 匹配你的 <div> */
+    width: 1px;
+    height: 1px;
+  }
+  .pixel-logo .p-1 { /* <--- 修改了这里, 匹配你的 HTML */
+    background-color: #003366;
+  } /* Default color */
+  @media (prefers-color-scheme: dark) {
+    .pixel-logo .p-1 { /* <--- 修改了这里, 匹配你的 HTML */
+      background-color: #ffffff;
+    } /* Dark mode color */
+  }
 </style>
 <link rel="icon" href="data:image/svg+xml,{% capture logo_html %}{% include logo.html %}{% endcapture %}{{ logo_html | uri_escape }}">

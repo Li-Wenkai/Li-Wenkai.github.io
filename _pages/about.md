@@ -25,7 +25,7 @@ latest_posts:
 
 I am a final-year undergrad in Astronomy at the [USTC](https://en.ustc.edu.cn/) and currently a visiting student at the [Steward Observatory](https://astro.arizona.edu/) ([CV](/assets/pdf/CV_Wenkai_Li.pdf)).
 
-My astronomy journey began as a passionate amateur astronomer, culminating in [a shortlist recognition from the Astronomy Photographer of the Year (2017)](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying research ambition. My goal is to become a “versatile astronomer,” proficient across observation, theory, simulation, and instrument.
+My astronomy journey began as an amateur astronomer, culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying research ambition. My goal is to become a “versatile astronomer,” proficient across observation, theory, simulation & instrument."
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 

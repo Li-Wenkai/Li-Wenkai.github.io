@@ -1432,3 +1432,31 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/*
+// -----------------------------------------------------------------------------
+// Custom Footnote Styling
+// -----------------------------------------------------------------------------
+*/
+
+div.footnotes {
+  margin-top: 2rem;
+  border-top: 1px solid var(--global-divider-color); /* 在脚注区上方加一条分隔线 */
+  padding-top: 1rem;
+
+  /* 1. 把字号设置为基础字号的 85% */
+  font-size: 0.85rem;
+
+  /* 2. 把颜色设置为主题的“浅色文本” */
+  color: var(--global-text-color-light);
+
+  /* 3. 移除脚注编号 (1, 2, 3) 旁边的方括号 */
+  .footnote-label a {
+    text-decoration: none;
+  }
+
+  /* 4. 移除脚注文本中最后那个“返回”箭头 (↩) */
+  .reversefootnote {
+    display: none;
+  }
+}

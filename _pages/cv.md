@@ -1,9 +1,9 @@
 ---
-layout: page  # <-- Key: Changed 'cv' to 'page'
+layout: page # <-- Key: Changed 'cv' to 'page'
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5 
+nav_order: 5
 ---
 
 <style>

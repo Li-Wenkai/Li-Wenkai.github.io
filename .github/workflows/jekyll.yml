@@ -23,7 +23,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2' # 使用一个更稳定和推荐的 Ruby 版本
+          ruby-version: "3.2" # 使用一个更稳定和推荐的 Ruby 版本
           bundler-cache: true # This will automatically run `bundle install`
       - name: Setup Pages
         id: pages

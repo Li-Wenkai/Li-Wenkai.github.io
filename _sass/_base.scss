@@ -1,3 +1,12 @@
+// _sass/_base.scss
+
+body {
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  font-weight: $font-weight-base;
+  background-color: var(--global-bg-color);
+}
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/

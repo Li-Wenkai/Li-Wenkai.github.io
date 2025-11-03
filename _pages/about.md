@@ -9,7 +9,7 @@ profile:
   image: Wenkai_Large.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -42,8 +42,8 @@ This research has been conducted at USTC within the group of Prof. [Tinggui Wang
 
 **Beyond Research:**
 
-- President, USTC Association of Amateur Astronomy, 2024-2025
-- Invited Coach, Anhui Provincial Team (Chinese National Astronomy Olympiad), 2025
-- Invited Lecturer, International Astronomy Olympiad Chinese National Training Team, 2025
+- President, USTC Association of Amateur Astronomy (2024-2025)
+- Invited Coach, Chinese National Astronomy Olympiad Anhui Provincial Team (2025)
+- Invited Lecturer, International Astronomy Olympiad Chinese National Training Team (2025)
 
 I am currently seeking a Ph.D. position in Astrophysics for Fall 2026, and I am excited to contribute both my research experience and community-building spirit to a leading doctoral program.

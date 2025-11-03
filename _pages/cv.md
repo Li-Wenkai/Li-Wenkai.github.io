@@ -31,8 +31,25 @@ nav_order: 5
 </p>
 
 <div class="embed-container">
-    <iframe src="/assets/pdf/CV_Wenkai_Li.pdf">
+    <iframe id="cv-iframe">
         <p>Your browser does not support embedded PDFs.
         <a href="/assets/pdf/CV_Wenkai_Li.pdf">Please click here to download the CV (PDF)</a>.</p>
     </iframe>
 </div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var cvIframe = document.getElementById('cv-iframe');
+        var pdfPath = '/assets/pdf/CV_Wenkai_Li.pdf';
+        var params;
+
+        // Check if the browser is Firefox
+        if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+            params = '#view=FitH&pagemode=none';
+        } else {
+            params = '#toolbar=0&navpanes=0';
+        }
+
+        cvIframe.src = pdfPath + params;
+    });
+</script>

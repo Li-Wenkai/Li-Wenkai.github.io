@@ -52,20 +52,19 @@ $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
 
 // 1. 定义 Lora 衬线字体 (先定义核心字体)
-$font-family-lora: "Lora", "Times New Roman", serif !default; // 给 Lora 一个自己的变量名
+$font-family-lora: "Lora", "Times New Roman", serif; // <-- 删掉 !default
 
 // 2. (关键！) 将无衬线字体也指向 Lora 字体链
-//    我们不再使用系统字体栈，而是强制使用 Lora
-$font-family-sans-serif: $font-family-lora !default;
+$font-family-sans-serif: $font-family-lora; // <-- 删掉 !default
 
 // 3. 将衬线字体指向 Lora 字体链
-$font-family-serif: $font-family-lora !default;
+$font-family-serif: $font-family-lora; // <-- 删掉 !default
 
 // 4. (关键！) 把网站的基础字体设置为 Lora
-$font-family-base: $font-family-lora !default;
+$font-family-base: $font-family-lora; // <-- 删掉 !default
 
 // 5. 将基础字重设置为 500 (如果你喜欢这个粗细)
-$font-weight-base: 600 !default;
+$font-weight-base: 600; // <-- 删掉 !default
 
 // 6. 你设置的字号
-$font-size-base: 2rem !default;
+$font-size-base: 2rem; // <-- 删掉 !default

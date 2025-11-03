@@ -3,8 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  4th-year Undergrad in Astro at <a href='https://en.ustc.edu.cn/'>USTC</a> (visiting <a href='https://astro.arizona.edu/'>Steward Observatory</a>).<br>
-  Researching TDEs, IMBHs, PSBs, and AGNs.
 
 profile:
   align: right
@@ -27,9 +25,8 @@ latest_posts:
 
 I am a final-year undergraduate researcher in Astronomy at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and currently a visiting student at the [Steward Observatory](https://astro.arizona.edu/). For a detailed overview, please consult my [CV](/assets/pdf/CV_Wenkai_Li.pdf).
 
-My journey in astronomy began as a passionate amateur astronomer, an experience which culminated in [a shortlist recognition from the Astronomy Photographer of the Year (2017)][apy_link][^1] and solidified my ambition for a research career. My goal is to become a "versatile astronomer," proficient across observation, theory, simulation, and instrument.
+My journey in astronomy began as a passionate amateur astronomer, an experience which culminated in [a shortlist recognition from the Astronomy Photographer of the Year (2017)](https://www.bbc.co.uk/newsround/40727570)[^1] and solidified my ambition for a research career. My goal is to become a “versatile astronomer,” proficient across observation, theory, simulation, and instrument.
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
-[apy_link]: https://www.bbc.co.uk/newsround/40727570
 
 **Research Areas:**
 

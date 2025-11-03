@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final-year undergraduate researcher in Astronomy at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and currently a visiting student at the [Steward Observatory](https://astro.arizona.edu/). For a detailed overview, please consult my [CV](/assets/pdf/CV_Wenkai_Li.pdf).
+I am a final-year undergrad in Astro at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) and currently a visiting student at the [Steward Observatory](https://astro.arizona.edu/). For a detailed overview, please consult my [CV](/assets/pdf/CV_Wenkai_Li.pdf).
 
 My journey in astronomy began as a passionate amateur astronomer, an experience which culminated in [a shortlist recognition from the Astronomy Photographer of the Year (2017)](https://www.bbc.co.uk/newsround/40727570)[^1] and solidified my ambition for a research career. My goal is to become a “versatile astronomer,” proficient across observation, theory, simulation, and instrument.
 

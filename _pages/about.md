@@ -25,11 +25,11 @@ latest_posts:
 
 I am a final-year undergrad in Astronomy at the [USTC](https://en.ustc.edu.cn/) and currently a visiting student at the [Steward Observatory](https://astro.arizona.edu/) ([CV](/assets/pdf/CV_Wenkai_Li.pdf)).
 
-My astronomy journey began as an amateur astronomer, culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying research ambition. My goal is to become a “versatile astronomer,” proficient across observation, theory, simulation & instrument."
+My astronomy journey began as an amateur astronomer, culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying research ambition. My goal is to become a “versatile astronomer,” proficient across observation, theory, simulation and instrument.
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 
-My research at USTC is mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3621) (Prof. [Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group), and at Steward Observatory by Prof. [Ann Zabludoff](https://azabludoff.wixsite.com/home).
+My research is mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3621) (Prof. [Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group) at USTC, and by Prof. [Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward Observatory.
 
 **Research Areas:**
 

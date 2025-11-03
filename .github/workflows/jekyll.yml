@@ -1,8 +1,8 @@
-name: Jekyll site CI
+name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -12,33 +12,39 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true # 改成 true, 这样最新的 push 会取消掉旧的，更高效
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4       # <-- 版本从 v3 更新到 v4
+        uses: actions/checkout@v4
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
-          bundler-cache: true
+          ruby-version: '3.1' # 使用一个更稳定和推荐的 Ruby 版本
+          bundler-cache: true # This will automatically run `bundle install`
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
       - name: Build with Jekyll
-        run: bundle exec jekyll build
+        # 使用 al-folio 推荐的环境变量来构建
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3 # <-- 版本从 v1 更新到 v3
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
 
   deploy:
     needs: build
-    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4       # <-- 版本从 v1 更新到 v4
+        uses: actions/deploy-pages@v4

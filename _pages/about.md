@@ -30,11 +30,11 @@ My journey in astronomy began as a passionate amateur astronomer, an experience 
 
 **Research Areas:**
 
-- Tidal disruption events & intermediate-mass black holes (IMBHs): EP240222a model, Ansky as a TDE, optical selected IMBH-TDE
-- Post-starburst galaxies (PSBs): dwarf PSB
-- Future survey forecasts: EP TDE detection rate, TDE luminosity function (LF)
-- Astronomy tools: USTC-astrXiv
-- Active galactic nuclei (AGNs).
+- Tidal Disruption Events & Intermediate-Mass Black Holes: EP240222a model, Ansky as a TDE, optical selected IMBH-TDE
+- Post-Starburst Galaxies: dwarf PSB
+- Future Survey Forecasts: EP TDE detection rate, TDE luminosity function
+- Astronomy Tools: USTC-astrXiv
+- Active Galactic Nuclei: Review for MCMC & AGN
 - For a deeper dive, please see my [projects](/projects/).
 
 This research has been conducted at USTC within the group of Prof. [Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate), under the mentorship of Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3621), and at Steward Observatory under the guidance of Prof. [Ann Zabludoff](https://azabludoff.wixsite.com/home).

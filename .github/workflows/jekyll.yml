@@ -19,18 +19,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4       # <-- 版本从 v3 更新到 v4
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0' # al-folio 推荐的 Ruby 版本
+          ruby-version: '3.0'
           bundler-cache: true
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3 # <-- 版本从 v1 更新到 v3
 
   deploy:
     needs: build
@@ -41,4 +41,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4       # <-- 版本从 v1 更新到 v4

@@ -51,18 +51,21 @@ $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
 
-// 1. 定义无衬线字体 (用于标题或特殊情况)
-$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
-  "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+// 1. 定义 Lora 衬线字体 (先定义核心字体)
+$font-family-lora: "Lora", "Times New Roman", serif !default; // 给 Lora 一个自己的变量名
 
-// 2. 定义 Lora 衬线字体
-$font-family-serif: "Lora", "Times New Roman", serif !default;
+// 2. (关键！) 将无衬线字体也指向 Lora 字体链
+//    我们不再使用系统字体栈，而是强制使用 Lora
+$font-family-sans-serif: $font-family-lora !default;
 
-// 3. (关键！) 把网站的基础字体设置为 Lora
-$font-family-base: $font-family-serif !default;
+// 3. 将衬线字体指向 Lora 字体链
+$font-family-serif: $font-family-lora !default;
 
-// 4. (关键！) 把基础字重从 400 改为 500
+// 4. (关键！) 把网站的基础字体设置为 Lora
+$font-family-base: $font-family-lora !default;
+
+// 5. 将基础字重设置为 500 (如果你喜欢这个粗细)
 $font-weight-base: 600 !default;
 
-// 5. 你设置的字号
-$font-size-base: 1.3rem !default;
+// 6. 你设置的字号
+$font-size-base: 1.4rem !default;

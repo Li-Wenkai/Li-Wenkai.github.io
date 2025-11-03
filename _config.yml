@@ -7,7 +7,6 @@ first_name: Wenkai
 middle_name:
 last_name: Li
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   4th-year Undergrad in Astro | Researching TDEs, IMBHs, PSBs, and AGNs.
 footer_text: >

@@ -145,6 +145,12 @@
          <FileRef
             location = "group:giscus.liquid">
          </FileRef>
+         <FileRef
+            location = "group:logo.svg">
+         </FileRef>
+         <FileRef
+            location = "group:logo.html">
+         </FileRef>
       </Group>
       <Group
          location = "group:_books"

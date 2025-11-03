@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:"
+      name = "">
+      <Group
+         location = "group:_includes"
+         name = "_includes">
+         <FileRef
+            location = "group:bib_search.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:citation.liquid">
+         </FileRef>
+         <Group
+            location = "group:repository"
+            name = "repository">
+            <FileRef
+               location = "group:repo.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:repo_user.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:repo_trophies.liquid">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:selected_papers.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:video.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:scripts.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:figure.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:news.liquid">
+         </FileRef>
+         <Group
+            location = "group:resume"
+            name = "resume">
+            <FileRef
+               location = "group:interests.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:references.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:volunteer.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:education.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:projects.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:publications.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:certificates.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:basics.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:skills.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:awards.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:work.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:languages.liquid">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:metadata.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:projects_horizontal.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:header.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:distill_scripts.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:related_posts.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:projects.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:head.liquid">
+         </FileRef>
+         <Group
+            location = "group:cv"
+            name = "cv">
+            <FileRef
+               location = "group:nested_list.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:time_table.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:map.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:list_groups.liquid">
+            </FileRef>
+            <FileRef
+               location = "group:list.liquid">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:latest_posts.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:disqus.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:footer.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:pagination.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:audio.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:newsletter.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:social.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:giscus.liquid">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:_books"
+         name = "_books">
+         <FileRef
+            location = "group:the_godfather.md">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:LICENSE">
+      </FileRef>
+      <FileRef
+         location = "group:requirements.txt">
+      </FileRef>
+      <Group
+         location = "group:lighthouse_results"
+         name = "lighthouse_results">
+         <Group
+            location = "group:desktop"
+            name = "desktop">
+            <FileRef
+               location = "group:alshedivat_github_io_al_folio_.html">
+            </FileRef>
+            <FileRef
+               location = "group:pagespeed.svg">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:mobile"
+            name = "mobile">
+            <FileRef
+               location = "group:alshedivat_github_io_al_folio_.html">
+            </FileRef>
+            <FileRef
+               location = "group:pagespeed.svg">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:bin"
+         name = "bin">
+         <FileRef
+            location = "group:cibuild">
+         </FileRef>
+         <FileRef
+            location = "group:deploy">
+         </FileRef>
+         <FileRef
+            location = "group:entry_point.sh">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:_projects"
+         name = "_projects">
+         <FileRef
+            location = "group:7_project.md">
+         </FileRef>
+         <FileRef
+            location = "group:2_project.md">
+         </FileRef>
+         <FileRef
+            location = "group:5_project.md">
+         </FileRef>
+         <FileRef
+            location = "group:8_project.md">
+         </FileRef>
+         <FileRef
+            location = "group:3_project.md">
+         </FileRef>
+         <FileRef
+            location = "group:6_project.md">
+         </FileRef>
+         <FileRef
+            location = "group:1_project.md">
+         </FileRef>
+         <FileRef
+            location = "group:4_project.md">
+         </FileRef>
+         <FileRef
+            location = "group:9_project.md">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:_posts"
+         name = "_posts">
+         <FileRef
+            location = "group:2024-01-27-advanced-images.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-04-28-post-citation.md">
+         </FileRef>
+         <FileRef
+            location = "group:2015-07-15-code.md">
+         </FileRef>
+         <FileRef
+            location = "group:2023-04-25-audios.md">
+         </FileRef>
+         <FileRef
+            location = "group:2015-05-15-images.md">
+         </FileRef>
+         <FileRef
+            location = "group:2023-12-12-tikzjax.md">
+         </FileRef>
+         <FileRef
+            location = "group:2015-10-20-math.md">
+         </FileRef>
+         <FileRef
+            location = "group:2023-07-12-post-bibliography.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-01-27-vega-lite.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-01-26-echarts.md">
+         </FileRef>
+         <FileRef
+            location = "group:2023-04-24-videos.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-01-26-geojson-map.md">
+         </FileRef>
+         <FileRef
+            location = "group:2022-12-10-giscus-comments.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-04-15-pseudocode.md">
+         </FileRef>
+         <FileRef
+            location = "group:2022-02-01-redirect.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-05-01-tabs.md">
+         </FileRef>
+         <FileRef
+            location = "group:2018-12-22-distill.md">
+         </FileRef>
+         <FileRef
+            location = "group:2023-07-04-jupyter-notebook.md">
+         </FileRef>
+         <FileRef
+            location = "group:2023-04-25-sidebar-table-of-contents.md">
+         </FileRef>
+         <FileRef
+            location = "group:2025-03-26-plotly.md">
+         </FileRef>
+         <FileRef
+            location = "group:2023-05-12-custom-blockquotes.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-01-27-code-diff.md">
+         </FileRef>
+         <FileRef
+            location = "group:2015-03-15-formatting-and-links.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-04-29-typograms.md">
+         </FileRef>
+         <FileRef
+            location = "group:2015-10-20-disqus-comments.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-12-04-photo-gallery.md">
+         </FileRef>
+         <FileRef
+            location = "group:2021-07-04-diagrams.md">
+         </FileRef>
+         <FileRef
+            location = "group:2020-09-28-twitter.md">
+         </FileRef>
+         <FileRef
+            location = "group:2023-03-20-table-of-contents.md">
+         </FileRef>
+         <FileRef
+            location = "group:2023-03-21-tables.md">
+         </FileRef>
+         <FileRef
+            location = "group:2024-01-26-chartjs.md">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Dockerfile">
+      </FileRef>
+      <Group
+         location = "group:_scripts"
+         name = "_scripts">
+         <FileRef
+            location = "group:photoswipe-setup.js">
+         </FileRef>
+         <FileRef
+            location = "group:cronitor-analytics-setup.js">
+         </FileRef>
+         <FileRef
+            location = "group:search.liquid.js">
+         </FileRef>
+         <FileRef
+            location = "group:giscus-setup.js">
+         </FileRef>
+         <FileRef
+            location = "group:open-panel-analytics-setup.js">
+         </FileRef>
+         <FileRef
+            location = "group:google-analytics-setup.js">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:_bibliography"
+         name = "_bibliography">
+         <FileRef
+            location = "group:papers.bib">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:FAQ.md">
+      </FileRef>
+      <FileRef
+         location = "group:INSTALL.md">
+      </FileRef>
+      <FileRef
+         location = "group:purgecss.config.js">
+      </FileRef>
+      <Group
+         location = "group:_layouts"
+         name = "_layouts">
+         <FileRef
+            location = "group:book-review.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:book-shelf.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:page.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:post.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:profiles.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:none.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:archive.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:default.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:cv.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:distill.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:bib.liquid">
+         </FileRef>
+         <FileRef
+            location = "group:about.liquid">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <Group
+         location = "group:_pages"
+         name = "_pages">
+         <FileRef
+            location = "group:repositories.md">
+         </FileRef>
+         <FileRef
+            location = "group:cv.md">
+         </FileRef>
+         <FileRef
+            location = "group:news.md">
+         </FileRef>
+         <FileRef
+            location = "group:profiles.md">
+         </FileRef>
+         <FileRef
+            location = "group:blog.md">
+         </FileRef>
+         <FileRef
+            location = "group:dropdown.md">
+         </FileRef>
+         <FileRef
+            location = "group:projects.md">
+         </FileRef>
+         <FileRef
+            location = "group:publications.md">
+         </FileRef>
+         <FileRef
+            location = "group:teaching.md">
+         </FileRef>
+         <FileRef
+            location = "group:404.md">
+         </FileRef>
+         <FileRef
+            location = "group:about_einstein.md">
+         </FileRef>
+         <FileRef
+            location = "group:about.md">
+         </FileRef>
+         <FileRef
+            location = "group:books.md">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:_news"
+         name = "_news">
+         <FileRef
+            location = "group:announcement_1.md">
+         </FileRef>
+         <FileRef
+            location = "group:announcement_3.md">
+         </FileRef>
+         <FileRef
+            location = "group:announcement_2.md">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:package-lock.json">
+      </FileRef>
+      <FileRef
+         location = "group:package.json">
+      </FileRef>
+      <FileRef
+         location = "group:CONTRIBUTING.md">
+      </FileRef>
+      <Group
+         location = "group:_plugins"
+         name = "_plugins">
+         <FileRef
+            location = "group:file-exists.rb">
+         </FileRef>
+         <FileRef
+            location = "group:external-posts.rb">
+         </FileRef>
+         <FileRef
+            location = "group:details.rb">
+         </FileRef>
+         <FileRef
+            location = "group:cache-bust.rb">
+         </FileRef>
+         <FileRef
+            location = "group:hide-custom-bibtex.rb">
+         </FileRef>
+         <FileRef
+            location = "group:google-scholar-citations.rb">
+         </FileRef>
+         <FileRef
+            location = "group:download-3rd-party.rb">
+         </FileRef>
+         <FileRef
+            location = "group:inspirehep-citations.rb">
+         </FileRef>
+         <FileRef
+            location = "group:remove-accents.rb">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:_config.yml">
+      </FileRef>
+      <FileRef
+         location = "group:Gemfile">
+      </FileRef>
+      <FileRef
+         location = "group:Gemfile.lock">
+      </FileRef>
+      <FileRef
+         location = "group:docker-compose.yml">
+      </FileRef>
+      <FileRef
+         location = "group:docker-compose-slim.yml">
+      </FileRef>
+      <Group
+         location = "group:_data"
+         name = "_data">
+         <FileRef
+            location = "group:venues.yml">
+         </FileRef>
+         <FileRef
+            location = "group:cv.yml">
+         </FileRef>
+         <FileRef
+            location = "group:repositories.yml">
+         </FileRef>
+         <FileRef
+            location = "group:coauthors.yml">
+         </FileRef>
+         <FileRef
+            location = "group:socials.yml">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:_sass"
+         name = "_sass">
+         <FileRef
+            location = "group:_variables.scss">
+         </FileRef>
+         <Group
+            location = "group:tabler-icons"
+            name = "tabler-icons">
+            <FileRef
+               location = "group:tabler-icons-outline.scss">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons.scss">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons-filled.scss">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:_themes.scss">
+         </FileRef>
+         <FileRef
+            location = "group:_cv.scss">
+         </FileRef>
+         <FileRef
+            location = "group:_layout.scss">
+         </FileRef>
+         <FileRef
+            location = "group:_distill.scss">
+         </FileRef>
+         <FileRef
+            location = "group:_tabs.scss">
+         </FileRef>
+         <FileRef
+            location = "group:_typograms.scss">
+         </FileRef>
+         <Group
+            location = "group:font-awesome"
+            name = "font-awesome">
+            <FileRef
+               location = "group:_stacked.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_functions.scss">
+            </FileRef>
+            <FileRef
+               location = "group:brands.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_variables.scss">
+            </FileRef>
+            <FileRef
+               location = "group:v4-shims.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_rotated-flipped.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_shims.scss">
+            </FileRef>
+            <FileRef
+               location = "group:regular.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_list.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_screen-reader.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_core.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_mixins.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_animated.scss">
+            </FileRef>
+            <FileRef
+               location = "group:fontawesome.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_sizing.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_icons.scss">
+            </FileRef>
+            <FileRef
+               location = "group:solid.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_fixed-width.scss">
+            </FileRef>
+            <FileRef
+               location = "group:_bordered-pulled.scss">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:_base.scss">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:robots.txt">
+      </FileRef>
+      <Group
+         location = "group:assets"
+         name = "assets">
+         <Group
+            location = "group:video"
+            name = "video">
+            <FileRef
+               location = "group:pexels-engin-akyurt-6069112-960x540-30fps.mp4">
+            </FileRef>
+            <FileRef
+               location = "group:tutorial_al_folio.mp4">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:bibliography"
+            name = "bibliography">
+            <FileRef
+               location = "group:2018-12-22-distill.bib">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:css"
+            name = "css">
+            <FileRef
+               location = "group:bootstrap.min.css">
+            </FileRef>
+            <FileRef
+               location = "group:mdb.min.css.map">
+            </FileRef>
+            <FileRef
+               location = "group:jupyter.css">
+            </FileRef>
+            <FileRef
+               location = "group:scholar-icons.css">
+            </FileRef>
+            <FileRef
+               location = "group:mdb.min.css">
+            </FileRef>
+            <FileRef
+               location = "group:jupyter-grade3.css">
+            </FileRef>
+            <FileRef
+               location = "group:jekyll-pygments-themes-github.css">
+            </FileRef>
+            <FileRef
+               location = "group:jekyll-pygments-themes-native.css">
+            </FileRef>
+            <FileRef
+               location = "group:bootstrap.min.css.map">
+            </FileRef>
+            <FileRef
+               location = "group:main.scss">
+            </FileRef>
+            <FileRef
+               location = "group:academicons.min.css">
+            </FileRef>
+            <FileRef
+               location = "group:jupyter-monokai.css">
+            </FileRef>
+            <FileRef
+               location = "group:bootstrap-toc.min.css">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:js"
+            name = "js">
+            <FileRef
+               location = "group:diff2html-setup.js">
+            </FileRef>
+            <Group
+               location = "group:distillpub"
+               name = "distillpub">
+               <FileRef
+                  location = "group:transforms.v2.js">
+               </FileRef>
+               <FileRef
+                  location = "group:template.v2.js.map">
+               </FileRef>
+               <FileRef
+                  location = "group:overrides.js">
+               </FileRef>
+               <FileRef
+                  location = "group:template.v2.js">
+               </FileRef>
+               <FileRef
+                  location = "group:transforms.v2.js.map">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:bootstrap-toc.min.js">
+            </FileRef>
+            <FileRef
+               location = "group:tooltips-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:progress-bar.js">
+            </FileRef>
+            <FileRef
+               location = "group:search-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:bootstrap.bundle.min.js.map">
+            </FileRef>
+            <FileRef
+               location = "group:mathjax-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:chartjs-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:venobox-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:bibsearch.js">
+            </FileRef>
+            <FileRef
+               location = "group:bootstrap.bundle.min.js">
+            </FileRef>
+            <FileRef
+               location = "group:typograms.js">
+            </FileRef>
+            <FileRef
+               location = "group:theme.js">
+            </FileRef>
+            <FileRef
+               location = "group:zoom.js">
+            </FileRef>
+            <FileRef
+               location = "group:masonry.js">
+            </FileRef>
+            <FileRef
+               location = "group:vega-setup.js">
+            </FileRef>
+            <Group
+               location = "group:search"
+               name = "search">
+               <FileRef
+                  location = "group:ninja-keys.min.js">
+               </FileRef>
+               <Group
+                  location = "group:lit"
+                  name = "lit">
+                  <Group
+                     location = "group:directives"
+                     name = "directives">
+                     <FileRef
+                        location = "group:live.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:ref.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:class-map.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:join.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:repeat.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:unsafe-html.min.js">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:decorators.min.js">
+                  </FileRef>
+                  <FileRef
+                     location = "group:index.min.js">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:ninja-action.min.js">
+               </FileRef>
+               <Group
+                  location = "group:hotkeys-js"
+                  name = "hotkeys-js">
+                  <FileRef
+                     location = "group:hotkeys.esm.min.js">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:ninja-footer.min.js">
+               </FileRef>
+               <FileRef
+                  location = "group:base-styles.min.js">
+               </FileRef>
+               <Group
+                  location = "group:lit-html"
+                  name = "lit-html">
+                  <Group
+                     location = "group:directives"
+                     name = "directives">
+                     <FileRef
+                        location = "group:live.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:ref.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:class-map.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:join.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:repeat.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:unsafe-html.min.js">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:is-server.min.js">
+                  </FileRef>
+                  <FileRef
+                     location = "group:lit-html.min.js">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:ninja-header.min.js">
+               </FileRef>
+               <Group
+                  location = "group:reactive-element"
+                  name = "reactive-element">
+                  <Group
+                     location = "group:decorators"
+                     name = "decorators">
+                     <FileRef
+                        location = "group:state.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:property.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:query.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:query-assigned-elements.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:event-options.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:query-async.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:custom-element.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:query-assigned-nodes.min.js">
+                     </FileRef>
+                     <FileRef
+                        location = "group:query-all.min.js">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:reactive-element.min.js">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:command-score.min.js">
+               </FileRef>
+               <Group
+                  location = "group:lit-element"
+                  name = "lit-element">
+                  <FileRef
+                     location = "group:lit-element.min.js">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:vanilla-back-to-top.min.js">
+            </FileRef>
+            <FileRef
+               location = "group:mermaid-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:copy_code.js">
+            </FileRef>
+            <FileRef
+               location = "group:leaflet-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:no_defer.js">
+            </FileRef>
+            <FileRef
+               location = "group:tabs.min.js">
+            </FileRef>
+            <FileRef
+               location = "group:common.js">
+            </FileRef>
+            <FileRef
+               location = "group:pseudocode-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:wechat.js">
+            </FileRef>
+            <FileRef
+               location = "group:highlight-search-term.js">
+            </FileRef>
+            <FileRef
+               location = "group:shortcut-key.js">
+            </FileRef>
+            <FileRef
+               location = "group:newsletter.js">
+            </FileRef>
+            <FileRef
+               location = "group:plotly-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:echarts-setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:jupyter_new_tab.js">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:pdf"
+            name = "pdf">
+            <FileRef
+               location = "group:example_pdf.pdf">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:html"
+            name = "html">
+            <FileRef
+               location = "group:relativity.html">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:plotly"
+            name = "plotly">
+            <FileRef
+               location = "group:demo.html">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:img"
+            name = "img">
+            <Group
+               location = "group:book_covers"
+               name = "book_covers">
+               <FileRef
+                  location = "group:the_godfather.jpg">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:rhino.png">
+            </FileRef>
+            <FileRef
+               location = "group:8.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:prof_pic_color.png">
+            </FileRef>
+            <FileRef
+               location = "group:9.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:12.jpg">
+            </FileRef>
+            <Group
+               location = "group:publication_preview"
+               name = "publication_preview">
+               <FileRef
+                  location = "group:brownian-motion.gif">
+               </FileRef>
+               <FileRef
+                  location = "group:wave-mechanics.gif">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:template_error.png">
+            </FileRef>
+            <FileRef
+               location = "group:11.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:10.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:4.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:5.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:7.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:6.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:2.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:3.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:prof_pic.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:1.jpg">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:audio"
+            name = "audio">
+            <FileRef
+               location = "group:epicaly-short-113909.mp3">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:json"
+            name = "json">
+            <FileRef
+               location = "group:table_data.json">
+            </FileRef>
+            <FileRef
+               location = "group:resume.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:webfonts"
+            name = "webfonts">
+            <FileRef
+               location = "group:fa-solid-900.ttf">
+            </FileRef>
+            <FileRef
+               location = "group:fa-regular-400.woff2">
+            </FileRef>
+            <FileRef
+               location = "group:fa-v4compatibility.ttf">
+            </FileRef>
+            <FileRef
+               location = "group:fa-regular-400.ttf">
+            </FileRef>
+            <FileRef
+               location = "group:fa-v4compatibility.woff2">
+            </FileRef>
+            <FileRef
+               location = "group:fa-solid-900.woff2">
+            </FileRef>
+            <FileRef
+               location = "group:fa-brands-400.woff2">
+            </FileRef>
+            <FileRef
+               location = "group:fa-brands-400.ttf">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:fonts"
+            name = "fonts">
+            <FileRef
+               location = "group:scholar-icons.woff">
+            </FileRef>
+            <FileRef
+               location = "group:academicons.woff">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons-filled.woff">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons.woff">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons-filled.ttf">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons.woff2">
+            </FileRef>
+            <FileRef
+               location = "group:academicons.ttf">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons-filled.woff2">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons.ttf">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons-outline.ttf">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons-outline.woff">
+            </FileRef>
+            <FileRef
+               location = "group:scholar-icons.ttf">
+            </FileRef>
+            <FileRef
+               location = "group:tabler-icons-outline.woff2">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:jupyter"
+            name = "jupyter">
+            <FileRef
+               location = "group:blog.ipynb">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:MyWebsite.xcworkspace">
+      </FileRef>
+      <Group
+         location = "group:readme_preview"
+         name = "readme_preview">
+         <FileRef
+            location = "group:code.png">
+         </FileRef>
+         <FileRef
+            location = "group:dark.png">
+         </FileRef>
+         <FileRef
+            location = "group:projects.png">
+         </FileRef>
+         <FileRef
+            location = "group:jupyter.png">
+         </FileRef>
+         <FileRef
+            location = "group:light.png">
+         </FileRef>
+         <FileRef
+            location = "group:math.png">
+         </FileRef>
+         <FileRef
+            location = "group:distill.png">
+         </FileRef>
+         <FileRef
+            location = "group:blog.png">
+         </FileRef>
+         <FileRef
+            location = "group:photos-screenshot.png">
+         </FileRef>
+         <FileRef
+            location = "group:publications.png">
+         </FileRef>
+         <FileRef
+            location = "group:al-folio-preview.png">
+         </FileRef>
+         <FileRef
+            location = "group:cv.png">
+         </FileRef>
+         <FileRef
+            location = "group:repositories.png">
+         </FileRef>
+         <FileRef
+            location = "group:people.png">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:CUSTOMIZE.md">
+      </FileRef>
+   </Group>
+</Workspace>

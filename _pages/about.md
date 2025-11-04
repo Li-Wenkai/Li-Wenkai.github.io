@@ -37,7 +37,7 @@ My research is mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3
 - Post-Starburst Galaxies: dwarf PSBs
 - Future Survey Forecasts: EP TDE detection rate, TDE luminosity functions
 - Astronomy Tools: USTC-astrXiv
-- Active Galactic Nuclei: review on MCMC & AGN (in Chinese)
+- Active Galactic Nuclei: review on AGN & MCMC (in Chinese)
 - For a deeper dive, please see my [Research](/projects/).
 
 ## Beyond Research:

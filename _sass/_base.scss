@@ -39,7 +39,8 @@ h1 {
 
 // h2: 用于你主页上的 "## Research Areas"
 h2 {
-  color: var(--global-text-color);
+  color: var(--global-text-color) !important; /* 用正文色 */
+  border-bottom-color: var(--global-divider-color); /* 底线保持浅色 */
   font-size: 1.6rem; // 设为 1.6 倍，比 H1 稍小
   font-weight: 600; // Semi-bold
   margin-top: 2rem;

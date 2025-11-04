@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: "Applications of the MCMC method in spectral fitting of active galactic nuclei and cosmology (in Chinese)"
 description: "A brief review on the physics of active galactic nuclei and introduction to Markov Chain Monte Carlo methods, written in Chinese."
 img: /assets/img/Review_AGN_MCMC.png # 你可以放一个封面图（可选）

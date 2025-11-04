@@ -63,12 +63,12 @@ ninja.data = [{
           title: 'Five-Stage Model for IMBH-TDE EP240222a (TBD!!! AI Version Website)',
           description: "Developing a comprehensive analytical model for the first intermediate-mass black hole tidal disruption event (IMBH-TDE) candidate.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/tde-imbh/";
+              window.location.href = "/projects/ep240222a_model/";
             },},{id: "projects-applications-of-the-mcmc-method-in-spectral-fitting-of-active-galactic-nuclei-and-cosmology-in-chinese",
           title: 'Applications of the MCMC method in spectral fitting of active galactic nuclei and...',
           description: "A brief review on the physics of active galactic nuclei and introduction to Markov Chain Monte Carlo methods, written in Chinese.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Review_AGN_MCMC/";
+              window.location.href = "/projects/review_agn_mcmc/";
             },},{
         id: 'social-email',
         title: 'email',

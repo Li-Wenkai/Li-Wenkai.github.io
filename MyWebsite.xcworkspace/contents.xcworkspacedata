@@ -206,33 +206,6 @@
          location = "group:_projects"
          name = "_projects">
          <FileRef
-            location = "group:7_project.md">
-         </FileRef>
-         <FileRef
-            location = "group:2_project.md">
-         </FileRef>
-         <FileRef
-            location = "group:5_project.md">
-         </FileRef>
-         <FileRef
-            location = "group:8_project.md">
-         </FileRef>
-         <FileRef
-            location = "group:3_project.md">
-         </FileRef>
-         <FileRef
-            location = "group:6_project.md">
-         </FileRef>
-         <FileRef
-            location = "group:1_project.md">
-         </FileRef>
-         <FileRef
-            location = "group:4_project.md">
-         </FileRef>
-         <FileRef
-            location = "group:9_project.md">
-         </FileRef>
-         <FileRef
             location = "group:EP240222a_model.md">
          </FileRef>
          <FileRef

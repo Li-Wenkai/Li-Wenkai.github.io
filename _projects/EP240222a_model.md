@@ -58,6 +58,6 @@ This analytical work allowed us to place tight constraints on the IMBH mass, spi
 
 This project is fully detailed in the following work:
 
-{% bibliography --file EP240222a --query @*[key=Li2025] %}
+{% bibliography --file papers --query @Li2025 %}
 
 _(Please note: Click on the 'Submitted' badge to view links to the accompanying video and slides from conference presentations.)_

@@ -109,6 +109,11 @@ ninja.data = [{
           description: "Developing a comprehensive analytical model for the first intermediate-mass black hole tidal disruption event (IMBH-TDE) candidate.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tde-imbh/";
+            },},{id: "projects-applications-of-the-mcmc-method-in-spectral-fitting-of-active-galactic-nuclei-and-cosmology-in-chinese",
+          title: 'Applications of the MCMC method in spectral fitting of active galactic nuclei and...',
+          description: "A brief review on the physics of active galactic nuclei and introduction to Markov Chain Monte Carlo methods, written in Chinese.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Review_AGN_MCMC/";
             },},{
         id: 'social-email',
         title: 'email',

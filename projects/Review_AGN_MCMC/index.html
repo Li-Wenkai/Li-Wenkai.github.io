@@ -1,0 +1,10 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> <html> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <style>.embed-container{position:relative;padding-bottom:141.4%;height:0;overflow:hidden;max-width:100%}.embed-container iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0}</style> </head> <body> <p style="text-align:center;"> <a href="/assets/pdf/AGN_Review_WenkaiLi.pdf" class="btn btn-primary" role="button" target="_blank" rel="noopener noreferrer"> <i class="ti ti-download"></i> Download PDF </a> </p> <div class="embed-container"> <iframe id="agn-iframe"></iframe> </div> <script>
+document.addEventListener("DOMContentLoaded", function() {
+  const agnIframe = document.getElementById('agn-iframe');
+  const pdfPath = '/assets/pdf/AGN_Review_WenkaiLi.pdf';
+  const params = navigator.userAgent.toLowerCase().includes('firefox')
+    ? '#view=FitH&pagemode=none'
+    : '#toolbar=0&navpanes=0';
+  agnIframe.src = pdfPath + params;
+});
+</script> </body> </html>

@@ -47,4 +47,3 @@ My research is mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3
 - Invited Lecturer, International Astronomy Olympiad Chinese National Training Team (2025)
 
 I am currently seeking a Ph.D. position in Astronomy for Fall 2026, and I am excited to contribute both my research experience and community-building spirit to a leading doctoral program.
-

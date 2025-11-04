@@ -38,7 +38,7 @@ My research is mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3
 - Future Survey Forecasts: EP TDE detection rate, TDE luminosity functions
 - Astronomy Tools: USTC-astrXiv
 - Active Galactic Nuclei: review on MCMC & AGN (in Chinese)
-- For a deeper dive, please see my [projects](/projects/).
+- For a deeper dive, please see my [Research](/projects/).
 
 ## Beyond Research:
 

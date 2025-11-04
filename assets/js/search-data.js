@@ -466,11 +466,6 @@ ninja.data = [{
           description: "Developing a comprehensive analytical model for the first intermediate-mass black hole tidal disruption event (IMBH-TDE) candidate.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tde-imbh/";
-            },},{id: "projects-five-stage-model-for-imbh-tde-ep240222a",
-          title: 'Five-Stage Model for IMBH-TDE EP240222a',
-          description: "Developing a comprehensive analytical model for the first intermediate-mass black hole tidal disruption event (IMBH-TDE) candidate.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/tde-imbh/";
             },},{
         id: 'social-email',
         title: 'email',

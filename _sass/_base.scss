@@ -1490,3 +1490,9 @@ div.footnotes {
     display: none;
   }
 }
+
+/* === Wenkai: Fix button uppercase === */
+.btn,
+.btn-primary {
+  text-transform: none !important;
+}

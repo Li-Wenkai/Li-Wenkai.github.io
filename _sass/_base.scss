@@ -28,6 +28,35 @@ strong {
   color: var(--global-text-color);
 }
 
+// h1: 用于页面大标题 (比如 "Publications", "Projects")
+h1 {
+  color: var(--global-text-color);
+  font-size: 2rem; // 基础字号的 2 倍 (你可以调)
+  font-weight: 600; // Semi-bold
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+// h2: 用于你主页上的 "## Research Areas"
+h2 {
+  color: var(--global-text-color);
+  font-size: 1.6rem; // 设为 1.6 倍，比 H1 稍小
+  font-weight: 600; // Semi-bold
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+// h3: 为你以后使用 (### A smaller subtitle) 做好准备
+h3,
+h4,
+h5,
+h6 {
+  color: var(--global-text-color);
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

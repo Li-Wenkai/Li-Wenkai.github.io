@@ -232,6 +232,9 @@
          <FileRef
             location = "group:9_project.md">
          </FileRef>
+         <FileRef
+            location = "group:EP240222a_model.md">
+         </FileRef>
       </Group>
       <Group
          location = "group:_posts"

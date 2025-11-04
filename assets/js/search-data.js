@@ -421,6 +421,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project_%E5%89%AF%E6%9C%AC/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -461,6 +466,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-five-stage-model-for-imbh-tde-ep240222a",
+          title: 'Five-Stage Model for IMBH-TDE EP240222a',
+          description: "Developing a comprehensive analytical model for the first intermediate-mass black hole tidal disruption event (IMBH-TDE) candidate.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tde-imbh/";
             },},{
         id: 'social-email',
         title: 'email',

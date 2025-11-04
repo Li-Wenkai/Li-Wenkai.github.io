@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final-year undergrad in Astronomy at the [USTC](https://en.ustc.edu.cn/) and currently a visiting student at the [Steward Observatory](https://astro.arizona.edu/) ([CV](/assets/pdf/CV_Wenkai_Li.pdf)).
+I am a final-year undergraduate in Astronomy at the [USTC](https://en.ustc.edu.cn/) and currently a visiting student at the [Steward Observatory](https://astro.arizona.edu/) ([CV](/assets/pdf/CV_Wenkai_Li.pdf)).
 
 My journey began as an amateur astronomer, culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying research ambition. My goal is to become a “versatile astronomer,” in observation, theory, simulation and instrument.
 
@@ -31,7 +31,7 @@ My journey began as an amateur astronomer, culminating in [a shortlisting by the
 
 My research is mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3621) (Prof. [Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group) at USTC, and by Prof. [Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward Observatory.
 
-**Research Areas:**
+## Research Areas:
 
 - Tidal Disruption Events & Intermediate-Mass Black Holes: EP240222a model, Ansky as a TDE
 - Post-Starburst Galaxies: dwarf PSBs
@@ -40,7 +40,7 @@ My research is mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3
 - Active Galactic Nuclei: review on MCMC & AGN (in Chinese)
 - For a deeper dive, please see my [projects](/projects/).
 
-**Beyond Research:**
+## Beyond Research:
 
 - President, USTC Association of Amateur Astronomy (2024-2025)
 - Invited Coach, Chinese National Astronomy Olympiad Anhui Provincial Team (2025)

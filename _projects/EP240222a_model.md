@@ -6,7 +6,7 @@ img: /assets/img/projects/EP240222a_Model.png
 importance: 1
 category: "TDEs & IMBHs"
 related_publications: true
-permalink: /projects/tde-imbh/
+permalink: /projects/ep240222a_model/
 ---
 
 This project focuses on the detailed theoretical modeling of EP240222a, a key candidate for a Tidal Disruption Event (TDE) involving an **Intermediate-Mass Black Hole (IMBH)**. The unique, long-duration light curve of this event challenges standard TDE theory, necessitating a novel analytical framework.

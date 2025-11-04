@@ -6,6 +6,7 @@ img: /assets/img/Review_AGN_MCMC.png # 你可以放一个封面图（可选）
 importance: 2
 category: AGN
 related_publications: []
+permalink: /projects/review_agn_mcmc/
 ---
 
 <style>

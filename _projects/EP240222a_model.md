@@ -4,7 +4,7 @@ title: Five-Stage Model for IMBH-TDE EP240222a
 description: Developing a comprehensive analytical model for the first intermediate-mass black hole tidal disruption event (IMBH-TDE) candidate.
 img: /assets/img/projects/EP240222a_Model.png
 importance: 1
-category: TDEs & IMBHs
+category: "TDEs & IMBHs"
 related_publications: true
 permalink: /projects/tde-imbh/
 ---

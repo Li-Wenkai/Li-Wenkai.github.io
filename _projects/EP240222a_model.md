@@ -2,7 +2,7 @@
 layout: page
 title: Five-Stage Model for IMBH-TDE EP240222a
 description: Developing a comprehensive analytical model for the first intermediate-mass black hole tidal disruption event (IMBH-TDE) candidate.
-img: /assets/img/projects/ep240222a_preview.jpg
+img: /assets/img/projects/EP240222a_Model.png
 importance: 1
 category: Tidal Disruption Events & IMBHs
 related_publications: true
@@ -21,7 +21,7 @@ We developed a robust five-stage evolutionary model that links the debris stream
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/ep240222a_model.png" title="Five-Stage Model Illustration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/projects/EP240222a_Model.png" title="Five-Stage Model Illustration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,10 +42,10 @@ This analytical work allowed us to place tight constraints on the IMBH mass, spi
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="/assets/img/projects/ep240222a_fit.png" title="Model Fit" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="/assets/img/projects/EP240222a_X-ray.png" title="Model Fit" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="/assets/img/projects/ep240222a_constraints.png" title="Constraint Diagram" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="/assets/img/projects/EP240222a_Early_Optical.png" title="Constraint Diagram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -58,6 +58,6 @@ This analytical work allowed us to place tight constraints on the IMBH mass, spi
 
 This project is fully detailed in the following work:
 
-{% bibliography_file -f papers -q @*[key=Li2025]* %}
+{% bibliography --query @*[key=Li2025]* %}
 
 _(Please note: Click on the 'Submitted' badge to view links to the accompanying video and slides from conference presentations.)_

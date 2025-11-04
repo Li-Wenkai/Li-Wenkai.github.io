@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Wenkai
+first_name: Wenkai Li (李文楷)
 middle_name:
-last_name: Li (李文楷)
+last_name:
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   4th-year Undergrad in Astro | Researching TDEs, IMBHs, PSBs, and AGNs.

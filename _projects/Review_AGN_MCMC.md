@@ -25,7 +25,7 @@ related_publications: []
 </style>
 
 <p style="text-align:center;">
-  <a href="/assets/pdf/AGN_Review_WenkaiLi.pdf" class="btn btn-primary" role="button" target="_blank" rel="noopener noreferrer">
+  <a href="/assets/pdf/AGN_Review_MCMC.pdf" class="btn btn-primary" role="button" target="_blank" rel="noopener noreferrer">
     <i class="ti ti-download"></i> Download PDF
   </a>
 </p>
@@ -37,7 +37,7 @@ related_publications: []
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const agnIframe = document.getElementById('agn-iframe');
-  const pdfPath = '/assets/pdf/AGN_Review_WenkaiLi.pdf';
+  const pdfPath = '/assets/pdf/AGN_Review_MCMC.pdf';
   const params = navigator.userAgent.toLowerCase().includes('firefox')
     ? '#view=FitH&pagemode=none'
     : '#toolbar=0&navpanes=0';

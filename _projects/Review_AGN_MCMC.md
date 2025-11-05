@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Applications of the MCMC method in spectral fitting of active galactic nuclei and cosmology (in Chinese)"
+short_title: "MCMC in AGN & Cosmology Review (CN)" # ← 新增：用于Research卡片显示
 description: "A brief review on the physics of active galactic nuclei and introduction to Markov Chain Monte Carlo methods, written in Chinese."
 img: /assets/img/Review_AGN_MCMC.png # 你可以放一个封面图（可选）
 importance: 2

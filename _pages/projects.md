@@ -8,7 +8,7 @@ nav_order: 3
 display_categories:
   - "TDEs & IMBHs"
   - "AGN"
-horizontal: false
+horizontal: ture
 ---
 
 <!-- pages/projects.md -->

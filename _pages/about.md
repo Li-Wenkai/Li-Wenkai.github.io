@@ -23,13 +23,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+/* 往上移头像 */
+.profile {
+  margin-top: -3.1rem !important;  /* 负值表示往上移，可调成 -2rem、-3rem 看效果 */
+}
+</style>
+
 Hi! I am a final-year undergrad in Astronomy at the [USTC](https://en.ustc.edu.cn/) and currently a visiting student at the [Steward Observatory](https://astro.arizona.edu/). For details, consult my [CV](/assets/pdf/CV_Wenkai_Li.pdf).
 
 My journey began as an amateur astronomer, culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying research ambition. My goal is to become a “versatile astronomer,” skilled in observation, theory, simulation and instrument.
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 
-My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3621) in [Prof. Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group at USTC, and by [Prof. Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward Observatory.
+My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3621) in [Prof. Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s research group at USTC, and by [Prof. Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward Observatory.
 
 ## Research Areas:
 
@@ -47,3 +54,9 @@ My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3
 - Invited Lecturer, International Astronomy Olympiad Chinese National Training Team (2025)
 
 I am currently seeking a Ph.D. position in Astronomy for Fall 2026, and I am excited to contribute both my research experience and community-building spirit to a leading doctoral program.
+
+<style>
+@media (min-width: 576px) {
+  .post .profile { width: 28% !important; }
+}
+</style>

@@ -1496,3 +1496,15 @@ div.footnotes {
 .btn-primary {
   text-transform: none !important;
 }
+
+.profile .contact-icons i {
+  font-size: 2rem;
+  margin: 0.2rem;
+}
+.profile .social {
+  text-align: center;
+}
+
+.profile .social.under-avatar {
+  margin-top: -3.2rem !important; /* 原来是 0.6rem，减小距离 */
+}

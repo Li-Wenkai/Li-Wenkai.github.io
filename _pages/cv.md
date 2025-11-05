@@ -6,6 +6,7 @@ short_title: "CV"
 nav: true
 nav_order: 5
 ---
+
 <style>
   .pdf-frame {
     width: 100%;

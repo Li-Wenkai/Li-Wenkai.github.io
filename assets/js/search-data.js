@@ -18,13 +18,13 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "Research",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
+        },{id: "nav-curriculum-vitae",
+          title: "Curriculum Vitae",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -101,12 +101,12 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-five-stage-model-for-imbh-tde-ep240222a-tbd-ai-version-website",
           title: 'Five-Stage Model for IMBH-TDE EP240222a (TBD!!! AI Version Website)',
-          description: "Developing a comprehensive analytical model for the first intermediate-mass black hole tidal disruption event (IMBH-TDE) candidate.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ep240222a_model/";
-            },},{id: "projects-applications-of-the-mcmc-method-in-spectral-fitting-of-active-galactic-nuclei-and-cosmology-in-chinese",
+            },},{id: "projects-applications-of-the-mcmc-method-in-spectral-fitting-of-active-galactic-nuclei-and-cosmology",
           title: 'Applications of the MCMC method in spectral fitting of active galactic nuclei and...',
-          description: "A brief review on the physics of active galactic nuclei and introduction to Markov Chain Monte Carlo methods, written in Chinese.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/review_agn_mcmc/";
             },},{

@@ -8,6 +8,7 @@ nav_order: 3
 display_categories:
   - "TDEs & IMBHs"
   - "AGN"
+  - "Astronomy Tools"
 horizontal: false
 ---
 

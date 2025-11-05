@@ -26,7 +26,7 @@ latest_posts:
 <style>
 /* 往上移头像 */
 .profile {
-  margin-top: -3.1rem !important;  /* 负值表示往上移，可调成 -2rem、-3rem 看效果 */
+  margin-top: -0.1rem !important;  /* 负值表示往上移，可调成 -2rem、-3rem 看效果 */
 }
 </style>
 

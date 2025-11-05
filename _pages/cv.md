@@ -25,5 +25,5 @@ nav_order: 5
 
 <iframe
   class="pdf-frame"
-  src="{{ '/assets/pdfjs/web/viewer.html' | relative_url }}?file={{ '/assets/pdf/CV_Wenkai_Li.pdf' | relative_url | url_encode }}#zoom=page-width&pagemode=none">
+  src="{{ '/public/pdfjs/web/viewer.html' | relative_url }}?file={{ '/assets/pdf/CV_Wenkai_Li.pdf' | relative_url | url_encode }}#zoom=page-width&pagemode=none">
 </iframe>

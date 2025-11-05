@@ -2,14 +2,37 @@
 layout: page
 title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 3
 display_categories:
   - "TDEs & IMBHs"
   - "AGN"
-horizontal: ture
+horizontal: false
 ---
+
+<style>
+/* ============ 修正卡片中图片到底部标题的间距 ============ */
+.projects .card figure {
+  margin-bottom: 0 !important;  /* 移除 <figure> 默认留白 */
+}
+
+.projects .card .card-img-top {
+  display: block;
+  width: 100%;
+  height: auto;                 /* 保持比例显示 */
+  margin-bottom: 0 !important;  /* 避免图片自身留白 */
+  vertical-align: bottom;
+}
+
+.projects .card .card-body {
+  padding-top: 1.5rem !important;  /* 控制图片和文字之间统一距离 */
+}
+
+.projects .card .card-title {
+  margin-top: 0 !important;        /* 避免标题上方出现额外空隙 */
+}
+</style>
 
 <!-- pages/projects.md -->
 <div class="projects">

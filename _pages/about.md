@@ -29,7 +29,7 @@ My journey began as an amateur astronomer, culminating in [a shortlisting by the
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 
-My research is mentored by Prof. [Ning Jiang](https://orcid.org/0000-0002-7152-3621) (Prof. [Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group) at USTC, and by Prof. [Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward Observatory.
+My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3621) in [Prof. Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group at USTC, and by [Prof. Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward Observatory.
 
 ## Research Areas:
 

@@ -2,7 +2,8 @@
 layout: page
 title: Five-Stage Model for IMBH-TDE EP240222a (TBD!!! AI Version Website)
 short_title: "EP240222a Model" # ← 新增：用于Research卡片显示
-description: Developing a comprehensive analytical model for the first intermediate-mass black hole tidal disruption event (IMBH-TDE) candidate.
+summary: Reveal inefficient circularization, delayed stream-disk interaction and reprocessing for IMBH-TDE EP240222a.
+description:
 img: /assets/img/projects/EP240222a_Model.png
 importance: 1
 category: "TDEs & IMBHs"

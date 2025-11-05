@@ -1508,3 +1508,15 @@ div.footnotes {
 .profile .social.under-avatar {
   margin-top: -3.2rem !important; /* 原来是 0.6rem，减小距离 */
 }
+
+/*
+// -----------------------------------------------------------------------------
+// Custom Project Card Styling (Wenkai) - FORCED COLOR
+// -----------------------------------------------------------------------------
+*/
+
+// 强制 .projects 页面里的 .card 内部的 <em> (斜体) 标签
+// 使用一个特定的浅灰色 (#747373)
+.projects .card em {
+  color: #747373 !important;
+}

@@ -2,7 +2,7 @@
 layout: page
 title: "Applications of the MCMC method in spectral fitting of active galactic nuclei and cosmology"
 short_title: "MCMC in AGN & Cosmology" # ← 新增：用于Research卡片显示
-summary: "Review paper for the graduate course _Statistical Methods in Astrophysics_, written in Chinese."
+summary: "Review paper for the graduate course <em>Statistical Methods in Astrophysics</em>, written in Chinese."
 description:
 img: /assets/img/projects/Review_AGN_MCMC.png # 你可以放一个封面图（可选）
 importance: 5
@@ -20,14 +20,14 @@ Note: The references are incomplete, as certain textbooks, lecture notes, and sl
 <style>
   .pdf-frame {
     width: 100%;
-    height: 155vh;                 /* 可调：占视口 85% 高度 */
-    border: 1px solid var(--global-divider-color);  /* 外框 */
-    border-radius: 6px;           /* 可选：圆角 */
-    box-shadow: 0 2px 8px rgba(0,0,0,.06); /* 可选：阴影 */
+    height: 155vh;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,.06);
   }
 </style>
 
-<p style="text-align:center; margin-bottom: 0.75rem;">
+<p style="text-align:center; margin-bottom:0.75rem;">
   <a href="/assets/pdf/Review_AGN_MCMC.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
     <i class="ti ti-download"></i> Download PDF
   </a>
@@ -35,16 +35,5 @@ Note: The references are incomplete, as certain textbooks, lecture notes, and sl
 
 <iframe
   class="pdf-frame"
-  src="/assets/pdf/Review_AGN_MCMC.pdf#zoom=page-width">
+  src="{{ '/assets/pdfjs/web/viewer.html' | relative_url }}?file={{ '/assets/pdf/Review_AGN_MCMC.pdf' | relative_url | url_encode }}#zoom=page-width&pagemode=none">
 </iframe>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const agnIframe = document.getElementById('agn-iframe');
-  const pdfPath = '/assets/pdf/Review_AGN_MCMC.pdf';
-  const params = navigator.userAgent.toLowerCase().includes('firefox')
-    ? '#view=FitH&pagemode=none'
-    : '#toolbar=0&navpanes=0';
-  agnIframe.src = pdfPath + params;
-});
-</script>

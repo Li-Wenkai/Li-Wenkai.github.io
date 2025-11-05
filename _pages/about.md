@@ -45,6 +45,7 @@ My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3
 - Survey Forecasts: EP TDE Detection Rate, TDE & FBOT Luminosity Functions & Detection Rate (on going)
 - Astronomy Tools: [USTC-astrXiv](/projects/USTC-astrXiv)
 - Active Galactic Nuclei: [Review on MCMC in AGN & Cosmology](/projects/Review_AGN_MCMC)
+- For a deeper dive, please see my [Research](/projects/).
 
 ## Beyond Research:
 

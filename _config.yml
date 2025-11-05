@@ -169,7 +169,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts", "assets/pdfjs"]
+include: ["_pages", "_scripts", "assets/pdfjs/**"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -193,7 +193,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-  - assets/pdfjs
+  - assets/pdfjs/**
 
 # Plug-ins
 plugins:

@@ -109,6 +109,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/review_agn_mcmc/";
+            },},{id: "projects-ustc-astrxiv-蜗壳天文科研周报-tbd-ai-ver",
+          title: 'USTC-AstrXiv (蜗壳天文科研周报) (TBD AI Ver!!!)',
+          description: "USTC-AstrXiv (nicknamed &quot;WoKe Astro Weekly&quot;) is an automated email newsletter that identifies, formats, and distributes new astronomy-related papers from the University of Science and Technology of China (USTC) on arXiv. The system runs autonomously on a server and delivers a neatly formatted HTML email to subscribers every Monday morning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ustc-astrxiv/";
             },},{
         id: 'social-email',
         title: 'email',

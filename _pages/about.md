@@ -33,11 +33,11 @@ My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3
 
 ## Research Areas:
 
-- Tidal Disruption Events & Intermediate-Mass Black Holes: EP240222a model, Ansky as a TDE
-- Post-Starburst Galaxies: dwarf PSBs
-- Future Survey Forecasts: EP TDE detection rate, TDE luminosity functions
+- Tidal Disruption Events & Intermediate-Mass Black Holes: EP240222a Model, Ansky as a TDE
+- Post-Starburst Galaxies: Dwarf PSBs
+- Future Survey Forecasts: EP TDE Detection Rate, TDE Luminosity Functions
 - Astronomy Tools: USTC-astrXiv
-- Active Galactic Nuclei: review on AGN & MCMC (in Chinese)
+- Active Galactic Nuclei: Review on MCMC in AGN & Cosmology
 - For a deeper dive, please see my [Research](/projects/).
 
 ## Beyond Research:

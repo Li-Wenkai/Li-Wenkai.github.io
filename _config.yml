@@ -193,6 +193,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+  - assets/pdfjs
 
 # Plug-ins
 plugins:

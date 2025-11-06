@@ -222,6 +222,13 @@ defaults:
     values:
       sitemap: false
 
+  # ⬇️ 新增/追加这一段
+  - scope:
+      path: "assets/pdfjs"
+    values:
+      layout: null
+      render_with_liquid: false
+
 sass:
   style: compressed
 
@@ -238,6 +245,8 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 terser:
+  exclude:
+    - assets/pdfjs/**
   compress:
     drop_console: true
 

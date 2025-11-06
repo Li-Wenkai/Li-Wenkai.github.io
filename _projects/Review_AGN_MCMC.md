@@ -35,5 +35,5 @@ Note: The references are incomplete, as certain textbooks, lecture notes, and sl
 
 <iframe
   class="pdf-frame"
-  src="{{ '/public/pdfjs/web/viewer.html' | relative_url }}?file={{ '/assets/pdf/Review_AGN_MCMC.pdf' | relative_url | url_encode }}#zoom=page-width&pagemode=none">
+  src="{{ '/assets/pdfjs/web/viewer.html' | relative_url }}?file={{ '/assets/pdf/Review_AGN_MCMC.pdf' | relative_url | url_encode }}#zoom=page-width&pagemode=none">
 </iframe>

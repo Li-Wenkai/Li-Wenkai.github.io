@@ -31,6 +31,15 @@ See https://github.com/adobe-type-tools/cmap-resources
     <link rel="resource" type="application/l10n" href="locale/locale.json" />
     <script src="../build/pdf.mjs" type="module"></script>
 
+    <!-- 再单独用“模块脚本”设置 worker 路径（最稳） -->
+    <script type="module">
+      import * as pdfjsLib from "../build/pdf.mjs";
+      // 你仓库里有 pdf.worker.mjs；如果你也放了别名 pdf.worker.min.mjs，则二选一都行
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "../build/pdf.worker.mjs";
+      // 若你复制了别名文件，就用：
+      // pdfjsLib.GlobalWorkerOptions.workerSrc = "../build/pdf.worker.min.mjs";
+    </script>
+
     <link rel="stylesheet" href="viewer.css" />
 
     <script src="viewer.mjs" type="module"></script>

@@ -37,26 +37,41 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-ansky-the-most-extreme-qpe-as-a-tde",
-          title: 'Ansky (the most extreme QPE) as a TDE',
+        },{id: "projects-ansky-as-a-tde",
+          title: 'Ansky as a TDE',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ansky_as_a_TDE/";
-            },},{id: "projects-five-stage-model-for-imbh-tde-ep240222a",
-          title: 'Five-Stage Model for IMBH-TDE EP240222a',
+            },},{id: "projects-ep240222a-model",
+          title: 'EP240222a Model',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ep240222a_model/";
-            },},{id: "projects-applications-of-the-mcmc-method-in-spectral-fitting-of-active-galactic-nuclei-and-cosmology",
-          title: 'Applications of the MCMC method in spectral fitting of active galactic nuclei and...',
+            },},{id: "projects-ep-thermal-tde-detection-rate",
+          title: 'EP Thermal TDE Detection Rate',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EP_TDE_Detectinon_Rate/";
+            },},{id: "projects-mcmc-in-agn-and-cosmology",
+          title: 'MCMC in AGN and Cosmology',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/review_agn_mcmc/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/TDE_FBOT_LF_Detection_Rate/";
             },},{id: "projects-ustc-astrxiv-蜗壳天文科研周报",
           title: 'USTC-AstrXiv (蜗壳天文科研周报)',
           description: "USTC-AstrXiv (nicknamed &quot;WoKe Astro Weekly&quot;) is an automated email newsletter that identifies, formats, and distributes new astronomy-related papers from the University of Science and Technology of China (USTC) on arXiv. The system runs autonomously on a server and delivers a neatly formatted HTML email to subscribers every Monday morning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ustc-astrxiv/";
+            },},{id: "projects-the-nature-of-dpsbs-on-going",
+          title: 'The Nature of dPSBs (on going)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dPSB/";
             },},{
         id: 'social-email',
         title: 'email',

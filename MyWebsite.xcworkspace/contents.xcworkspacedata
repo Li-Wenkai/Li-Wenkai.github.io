@@ -146,9 +146,6 @@
             location = "group:giscus.liquid">
          </FileRef>
          <FileRef
-            location = "group:logo.svg">
-         </FileRef>
-         <FileRef
             location = "group:logo.html">
          </FileRef>
       </Group>
@@ -213,6 +210,9 @@
          </FileRef>
          <FileRef
             location = "group:USTC-AstrXiv.md">
+         </FileRef>
+         <FileRef
+            location = "group:Ansky_as_a_TDE.md">
          </FileRef>
       </Group>
       <Group

@@ -37,8 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-five-stage-model-for-imbh-tde-ep240222a-tbd-ai-version-website",
-          title: 'Five-Stage Model for IMBH-TDE EP240222a (TBD!!! AI Version Website)',
+        },{id: "projects-ansky-the-most-extreme-qpe-as-a-tde",
+          title: 'Ansky (the most extreme QPE) as a TDE',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Ansky_as_a_TDE/";
+            },},{id: "projects-five-stage-model-for-imbh-tde-ep240222a",
+          title: 'Five-Stage Model for IMBH-TDE EP240222a',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ep240222a_model/";
@@ -47,8 +52,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/review_agn_mcmc/";
-            },},{id: "projects-ustc-astrxiv-蜗壳天文科研周报-tbd-ai-ver",
-          title: 'USTC-AstrXiv (蜗壳天文科研周报) (TBD AI Ver!!!)',
+            },},{id: "projects-ustc-astrxiv-蜗壳天文科研周报",
+          title: 'USTC-AstrXiv (蜗壳天文科研周报)',
           description: "USTC-AstrXiv (nicknamed &quot;WoKe Astro Weekly&quot;) is an automated email newsletter that identifies, formats, and distributes new astronomy-related papers from the University of Science and Technology of China (USTC) on arXiv. The system runs autonomously on a server and delivers a neatly formatted HTML email to subscribers every Monday morning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ustc-astrxiv/";

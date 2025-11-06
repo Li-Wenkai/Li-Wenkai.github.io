@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Five-Stage Model for IMBH-TDE EP240222a (TBD!!! AI Version Website)
+title: Five-Stage Model for IMBH-TDE EP240222a
 short_title: "EP240222a Model" # ← 新增：用于Research卡片显示
-summary: Reveal inefficient circularization, delayed stream-disk interaction and reprocessing for IMBH-TDE EP240222a.
+summary: Revealing inefficient circularization, delayed stream-disk interaction and reprocessing for IMBH-TDE EP240222a.
 description:
 img: /assets/img/projects/EP240222a_Model.png
 importance: 1
 category: "TDEs & IMBHs"
 related_publications: true
 permalink: /projects/ep240222a_model/
+redirect: /publications/#Li2025
 ---
 
-This project focuses on the detailed theoretical modeling of EP240222a, a key candidate for a Tidal Disruption Event (TDE) involving an **Intermediate-Mass Black Hole (IMBH)**. The unique, long-duration light curve of this event challenges standard TDE theory, necessitating a novel analytical framework.
+TBD!!! AI Version Website. This project focuses on the detailed theoretical modeling of EP240222a, a key candidate for a Tidal Disruption Event (TDE) involving an **Intermediate-Mass Black Hole (IMBH)**. The unique, long-duration light curve of this event challenges standard TDE theory, necessitating a novel analytical framework.
 
 ### The Challenge of EP240222a
 

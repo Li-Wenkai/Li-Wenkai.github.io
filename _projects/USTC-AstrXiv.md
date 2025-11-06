@@ -1,16 +1,18 @@
 ---
 layout: page
-title: "USTC-AstrXiv (蜗壳天文科研周报) (TBD AI Ver!!!)"
+title: "USTC-AstrXiv (蜗壳天文科研周报)"
 short_title: "USTC-AstrXiv"
-summary: "A fully automated weekly digest of USTC Astronomy research"
+summary: "A fully automated email weekly digest of USTC Astronomy research (80+ subscribers)"
 description: 'USTC-AstrXiv (nicknamed "WoKe Astro Weekly") is an automated email newsletter that identifies, formats, and distributes new astronomy-related papers from the University of Science and Technology of China (USTC) on arXiv. The system runs autonomously on a server and delivers a neatly formatted HTML email to subscribers every Monday morning.'
 img: "/assets/img/projects/USTC-AstrXiv_Logo.png"
 importance: 4
 category: "Astronomy Tools"
 related_publications: false
 permalink: "/projects/ustc-astrxiv/"
+redirect: https://mp.weixin.qq.com/s/_y-ICAKX_Ii_vdeqlEfopA
 ---
 
+TBD AI Ver!!!
 **USTC-AstrXiv**, also known as _WoKe Astronomy Weekly_, is an automated weekly digest that highlights new astronomy papers from the **University of Science and Technology of China (USTC)** posted on **arXiv**.  
 The project was inspired by _StewarXiv_, a similar service run by the Steward Observatory at the University of Arizona.
 

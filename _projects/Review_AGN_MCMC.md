@@ -2,11 +2,11 @@
 layout: page
 title: "Applications of the MCMC method in spectral fitting of active galactic nuclei and cosmology"
 short_title: "MCMC in AGN & Cosmology" # ← 新增：用于Research卡片显示
-summary: "Review paper for the graduate course <em>Statistical Methods in Astrophysics</em>, written in Chinese."
+summary: "A review paper for the graduate course <em>Statistical Methods in Astrophysics</em>, written in Chinese."
 description:
 img: /assets/img/projects/Review_AGN_MCMC.png # 你可以放一个封面图（可选）
 importance: 5
-category: AGN
+category: AGNs
 related_publications: false
 permalink: /projects/review_agn_mcmc/
 ---

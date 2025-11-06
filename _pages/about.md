@@ -38,7 +38,7 @@ My journey began as an amateur astronomer, culminating in [a shortlisting by the
 
 My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3621) in [Prof. Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s research group at USTC, and by [Prof. Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward Observatory.
 
-## Research Areas:
+## Research:
 
 - Tidal Disruption Events & Intermediate-Mass Black Holes: [EP240222a Model](/projects/#ep240222a-model), [Ansky as a TDE](/projects/#ansky-as-a-tde)
 - Post-Starburst Galaxies: [dPSBs](/projects/#the-nature-of-dpsbs-on-going)
@@ -47,11 +47,26 @@ My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3
 - Active Galactic Nuclei: [MCMC in AGN & Cosmology](/projects/#mcmc-in-agn-and-cosmology)
 - For a deeper dive, please see my [Research](/projects).
 
-## Beyond Research:
+## Teaching:
 
-- President, USTC Association of Amateur Astronomy (2024-2025)
-- Invited Coach, Chinese National Astronomy Olympiad Anhui Provincial Team (2025)
-- Invited Lecturer, International Astronomy Olympiad Chinese National Training Team (2025)
+- Invited Lecturer, China National Astronomy Olympiad Training (2024 & 2025)
+- Teaching Assistant, Introduction to Astronomy (2024 Fall)
+- Invited Lecturer, International Astronomy Olympiad Chinese National Training Team (2024)
+- Invited Coach, Chinese National Astronomy Olympiad Anhui Provincial Team (2024)
+- Invited Lecturer, Shenzhen Middle School Astronomy Association Astronomy Summer Course (2021)
+
+## Hobby:
+
+- Amateur Astronomy
+- Daily Photography
+- Sports
+- Travel
+
+## Outreach:
+
+- President & Vice President, USTC Association of Amateur Astronomy (2023-2025)
+- Admissions Volunteer, USTC Undergraduate Admissions (2022 & 2024)
+- Invited Speaker, Shenzhen Middle School Mathematics and Science High School Study Tour (2023)
 
 I am currently seeking a Ph.D. position in Astronomy for Fall 2026, and I am excited to contribute both my research experience and community-building spirit to a leading doctoral program.
 

@@ -23,3 +23,18 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* --- anchor offset for fixed navbar --- */
+/* 现代浏览器：只要元素带 id，被锚点定位时会预留 90px 顶部空间 */
+[id] {
+  scroll-margin-top: 115px; /* 按你的导航栏高度调整，比如 70~110px */
+}
+
+/* 兜底方案：老一点的浏览器对锚点添加“看不见的占位” */
+:target::before {
+  content: "";
+  display: block;
+  height: 115px;           /* 同上 */
+  margin-top: -115px;      /* 同上 */
+  visibility: hidden;
+}

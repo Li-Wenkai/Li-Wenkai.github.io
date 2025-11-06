@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 display_categories:
   - "TDEs & IMBHs"
+  - "PSBs"
+  - "Survey Forecasts"
   - "Astronomy Tools"
   - "AGNs"
 horizontal: false
@@ -89,3 +91,23 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  if (!location.hash) return;
+  const raw = decodeURIComponent(location.hash.slice(1));
+  const el  = document.getElementById(raw);
+  if (!el) return;
+
+  const go = () => el.scrollIntoView({ block: 'start', behavior: 'auto' });
+
+  // 你的站点引了 imagesLoaded（al-folio 默认有）
+  if (window.imagesLoaded) {
+    imagesLoaded(document.body, function () {
+      setTimeout(go, 0); // 等 Masonry 完成 reflow 再滚
+    });
+  } else {
+    setTimeout(go, 0);
+  }
+});
+</script>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "USTC-AstrXiv (蜗壳天文科研周报)"
-short_title: "USTC-AstrXiv"
+short_title: "USTC-AstrXiv (蜗壳天文科研周报)"
 summary: "A fully automated email weekly digest of USTC Astronomy research (80+ subscribers)"
 description: 'USTC-AstrXiv (nicknamed "WoKe Astro Weekly") is an automated email newsletter that identifies, formats, and distributes new astronomy-related papers from the University of Science and Technology of China (USTC) on arXiv. The system runs autonomously on a server and delivers a neatly formatted HTML email to subscribers every Monday morning.'
 img: "/assets/img/projects/USTC-AstrXiv_Logo.png"

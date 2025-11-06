@@ -214,6 +214,15 @@
          <FileRef
             location = "group:Ansky_as_a_TDE.md">
          </FileRef>
+         <FileRef
+            location = "group:dPSB.md">
+         </FileRef>
+         <FileRef
+            location = "group:EP_TDE_Detection_Rate.md">
+         </FileRef>
+         <FileRef
+            location = "group:TDE_FBOT_LF_Detection_Rate.md">
+         </FileRef>
       </Group>
       <Group
          location = "group:_posts"

@@ -245,8 +245,6 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 terser:
-  exclude:
-    - assets/pdfjs/**
   compress:
     drop_console: true
 

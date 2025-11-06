@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -57,18 +57,18 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/review_agn_mcmc/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-tde-amp-fbot-39-s-lf-amp-detection-rate",
+          title: 'TDE &amp;amp; FBOT&amp;#39;s LF &amp;amp; Detection Rate',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/TDE_FBOT_LF_Detection_Rate/";
+              window.location.href = "/projects/TDE_FBOT_LF_Detectinon_Rate/";
             },},{id: "projects-ustc-astrxiv-蜗壳天文科研周报",
           title: 'USTC-AstrXiv (蜗壳天文科研周报)',
           description: "USTC-AstrXiv (nicknamed &quot;WoKe Astro Weekly&quot;) is an automated email newsletter that identifies, formats, and distributes new astronomy-related papers from the University of Science and Technology of China (USTC) on arXiv. The system runs autonomously on a server and delivers a neatly formatted HTML email to subscribers every Monday morning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ustc-astrxiv/";
-            },},{id: "projects-the-nature-of-dpsbs-on-going",
-          title: 'The Nature of dPSBs (on going)',
+            },},{id: "projects-the-nature-of-dpsbs",
+          title: 'The Nature of dPSBs',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dPSB/";

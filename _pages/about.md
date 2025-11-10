@@ -49,11 +49,11 @@ My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3
 
 ## Teaching:
 
-- Invited Lecturer, China National Astronomy Olympiad Training (2024 & 2025)
-- Teaching Assistant, Introduction to Astronomy (2024 Fall)
-- Invited Lecturer, International Astronomy Olympiad Chinese National Training Team (2024)
-- Invited Coach, Chinese National Astronomy Olympiad Anhui Provincial Team (2024)
-- Invited Lecturer, Shenzhen Middle School Astronomy Association Astronomy Summer Course (2021)
+- Invited Lecturer, China National Astronomy Olympiad Training, Hefei (2024 & 2025)
+- Teaching Assistant, Introduction to Astronomy ([Prof. Yongquan Xue](https://faculty.ustc.edu.cn/xueyongquan/zh_CN/index.htm)), USTC (2024 Fall)
+- Invited Lecturer, International Astronomy Olympiad Chinese National Training Team, USTC (2024)
+- Invited Coach, Chinese National Astronomy Olympiad Anhui Provincial Team, Hefei No. 1 HS (2024)
+- Invited Lecturer, Astronomy Summer Course, Shenzhen Middle School Astronomy Association (2021)
 
 ## Hobby:
 
@@ -64,7 +64,7 @@ My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3
 
 ## Outreach:
 
-- President & Vice President, USTC Association of Amateur Astronomy (2023-2025)
+- President & Vice President, USTC Association of Amateur Astronomy (2023 - 2025)
 - Admissions Volunteer, USTC Undergraduate Admissions (2022 & 2024)
 - Invited Speaker, Shenzhen Middle School Mathematics and Science High School Study Tour (2023)
 

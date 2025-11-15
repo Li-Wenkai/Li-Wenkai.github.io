@@ -55,18 +55,18 @@ My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3
 - Invited Coach, Chinese National Astronomy Olympiad Anhui Provincial Team, Hefei No. 1 HS (2024)
 - Invited Lecturer, Astronomy Summer Course, Shenzhen Middle School Astronomy Association (2021)
 
+## Outreach:
+
+- President & Vice President, USTC Association of Amateur Astronomy (2023 - 2025)
+- Admissions Volunteer, USTC Undergraduate Admissions (2022 & 2024)
+- Invited Speaker, Shenzhen Middle School Mathematics and Science High School Study Tour (2023)
+
 ## Hobby:
 
 - Amateur Astronomy
 - Daily Photography
 - Sports
 - Travel
-
-## Outreach:
-
-- President & Vice President, USTC Association of Amateur Astronomy (2023 - 2025)
-- Admissions Volunteer, USTC Undergraduate Admissions (2022 & 2024)
-- Invited Speaker, Shenzhen Middle School Mathematics and Science High School Study Tour (2023)
 
 I am currently seeking a Ph.D. position in Astronomy for Fall 2026, and I am excited to contribute both my research experience and community-building spirit to a leading doctoral program.
 

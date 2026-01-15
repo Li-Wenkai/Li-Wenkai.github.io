@@ -1,0 +1,44 @@
+<div
+  class="col"
+  id="{{ project.anchor | default: project.short_title | default: project.title | slugify }}"
+>
+  <div class="card h-100 hoverable">
+    {% if project.img %}
+      {%
+        include figure.liquid
+        loading="eager"
+        path=project.img
+        sizes = "250px"
+        alt="project thumbnail"
+        class="card-img-top"
+      %}
+    {% endif %}
+    <div class="card-body">
+      <h2 class="card-title">
+        {% if project.short_title_link %}
+          <a href="{{ project.short_title_link }}" target="_blank" rel="noopener">
+            {{ project.short_title | default: project.title }}
+          </a>
+        {% else %}
+          {{ project.short_title | default: project.title }}
+        {% endif %}
+      </h2>
+      <p class="card-text">{{ project.summary | default: project.description }}</p>
+      <div class="row ml-1 mr-1 p-0">
+        {% if project.github %}
+          <div class="github-icon">
+            <div class="icon" data-toggle="tooltip" title="Code Repository">
+              <a href="{{ project.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+            </div>
+            {% if project.github_stars %}
+              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <i class="fa-solid fa-star"></i>
+                <span id="{{ project.github_stars }}-stars"></span>
+              </span>
+            {% endif %}
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

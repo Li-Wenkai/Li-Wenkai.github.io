@@ -8,6 +8,6 @@ img: /assets/img/projects/Ansky_UV_Spectrum.png
 importance: 2
 category: "TDEs & IMBHs"
 related_publications: true
-permalink: /projects/Ansky_as_a_TDE/
+permalink: /Research/Ansky_as_a_TDE/
 redirect: /publications/#Zhu2025
 ---

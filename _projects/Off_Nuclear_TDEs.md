@@ -8,6 +8,6 @@ img: /assets/img/projects/Off_Nuclear_TDEs.gif
 importance: 2
 category: "TDEs & IMBHs"
 related_publications: true
-permalink: /projects/Off_Nuclear_TDEs/
+permalink: /Research/Off_Nuclear_TDEs/
 redirect: "javascript:void(0)"
 ---

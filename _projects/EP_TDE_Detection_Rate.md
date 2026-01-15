@@ -8,6 +8,6 @@ img: /assets/img/projects/EP_TDE_Detection_Rate.png
 importance: 2
 category: "Survey Forecasts"
 related_publications: true
-permalink: /projects/EP_TDE_Detectinon_Rate/
+permalink: /Research/EP_TDE_Detectinon_Rate/
 redirect: "javascript:void(0)"
 ---

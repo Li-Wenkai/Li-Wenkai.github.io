@@ -8,7 +8,7 @@ img: "/assets/img/projects/USTC-AstrXiv_Logo.png"
 importance: 4
 category: "Astronomy Tools"
 related_publications: false
-permalink: "/projects/ustc-astrxiv/"
+permalink: "/Research/ustc-astrxiv/"
 redirect: https://mp.weixin.qq.com/s/_y-ICAKX_Ii_vdeqlEfopA
 ---
 

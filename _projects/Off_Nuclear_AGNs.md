@@ -8,6 +8,6 @@ img: /assets/img/projects/Off_Nuclear_AGNs.gif
 importance: 2
 category: "AGNs"
 related_publications: true
-permalink: /projects/Off_Nuclear_AGNs/
+permalink: /Research/Off_Nuclear_AGNs/
 redirect: "javascript:void(0)"
 ---

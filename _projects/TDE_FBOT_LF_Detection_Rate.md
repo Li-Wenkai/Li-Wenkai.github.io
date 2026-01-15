@@ -8,6 +8,6 @@ img: /assets/img/projects/Go_Zhuang.gif
 importance: 2
 category: "Survey Forecasts"
 related_publications: true
-permalink: /projects/TDE_FBOT_LF_Detectinon_Rate/
+permalink: /Research/TDE_FBOT_LF_Detection_Rate/
 redirect: "javascript:void(0)"
 ---

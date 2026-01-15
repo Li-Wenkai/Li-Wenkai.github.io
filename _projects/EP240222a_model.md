@@ -8,7 +8,7 @@ img: /assets/img/projects/EP240222a_Model.png
 importance: 1
 category: "TDEs & IMBHs"
 related_publications: true
-permalink: /projects/ep240222a_model/
+permalink: /Research/ep240222a_model/
 redirect: /publications/#Li2025
 ---
 

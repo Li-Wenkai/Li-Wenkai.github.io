@@ -8,6 +8,6 @@ img: /assets/img/projects/PSB_TDE_BPT.png
 importance: 2
 category: "PSBs"
 related_publications: true
-permalink: /projects/dPSB/
+permalink: /Research/dPSB/
 redirect: "javascript:void(0)"
 ---

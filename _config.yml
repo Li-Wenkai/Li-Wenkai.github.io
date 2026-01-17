@@ -328,6 +328,9 @@ filtered_bibtex_keywords:
     slides,
     supp,
     video,
+    video (Chinese),
+    talk,
+    talk (Chinese),
     website,
   ]
 

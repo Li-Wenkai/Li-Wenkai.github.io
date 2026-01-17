@@ -57,7 +57,8 @@ My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3
 
 ## Outreach:
 
-- President & Vice President, [USTC Association of Amateur Astronomy](/ξ/#ustcaaa) (2023 - 2025)
+- President, [USTC Association of Amateur Astronomy](/ξ/#ustcaaa) (2024 - 2025)
+- Vice President, [USTC Association of Amateur Astronomy](/ξ/#ustcaaa) (2023 - 2024)
 - Admissions Volunteer, USTC Undergraduate Admissions (2022 & 2024)
 - Invited Speaker, Shenzhen Middle School Mathematics and Science High School Study Tour (2023)
 

@@ -8,13 +8,16 @@
          location = "group:_amateur_astronomy"
          name = "_amateur_astronomy">
          <FileRef
+            location = "group:Jupiter.md">
+         </FileRef>
+         <FileRef
+            location = "group:Fake_Jupiter.md">
+         </FileRef>
+         <FileRef
             location = "group:WFST.md">
          </FileRef>
          <FileRef
             location = "group:Sky.md">
-         </FileRef>
-         <FileRef
-            location = "group:Fake_Jupyter.md">
          </FileRef>
          <FileRef
             location = "group:USTCAAA.md">
@@ -54,9 +57,6 @@
          </FileRef>
          <FileRef
             location = "group:Mars.md">
-         </FileRef>
-         <FileRef
-            location = "group:Jupyter.md">
          </FileRef>
          <FileRef
             location = "group:/Users/kevinli/Documents/Li-Wenkai.github.io/_amateur_astronomy/Geminids.md">

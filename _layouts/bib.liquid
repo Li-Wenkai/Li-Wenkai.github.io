@@ -225,6 +225,15 @@
           <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
         {% endif %}
       {% endif %}
+      {% if entry.talk %}
+        <a href="{{ entry.talk }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">Talk</a>
+      {% endif %}
+      {% if entry.talk_cn %}
+        <a href="{{ entry.talk_cn }}" class="btn btn-sm z-depth-0" role="button"
+           target="_blank" rel="noopener">
+          Talk (Chinese)
+        </a>
+      {% endif %}
       {% if entry.video and site.enable_video_embedding %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
       {% elsif entry.video %}

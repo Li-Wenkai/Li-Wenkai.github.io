@@ -9,5 +9,5 @@ importance: 2
 category: "TDEs & IMBHs"
 related_publications: true
 permalink: /Research/Ansky_as_a_TDE/
-redirect: /publications/#Zhu2025
+redirect: /Publications/#Zhu2025
 ---

@@ -30,13 +30,13 @@ latest_posts:
 }
 </style>
 
-Hi! I am a final-year undergrad in Astronomy at the [USTC](https://en.ustc.edu.cn/), currently a research intern at the [Steward Observatory](https://astro.arizona.edu/), and will be joining Steward as a grad student this fall.
+Hi! I am a senior undergrad in Astronomy at the [USTC](https://en.ustc.edu.cn/), currently a research intern at the [Steward Observatory](https://astro.arizona.edu/), and will be joining Steward as a grad student this fall.
 
 My journey began as an [amateur astronomer](/ξ), culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying research ambition. My goal is to become a “versatile astronomer,” skilled in observation, theory, simulation and instrument.
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 
-My research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3621) in [Prof. Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s research group at USTC, and by [Prof. Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward Observatory.
+My undergrad research is mentored by [Prof. Ning Jiang](https://orcid.org/0000-0002-7152-3621) in [Prof. Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group at USTC, and by [Prof. Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward.
 
 ## Research:
 

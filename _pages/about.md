@@ -30,7 +30,7 @@ latest_posts:
 }
 </style>
 
-Hi! I am a senior undergrad in Astronomy at the [USTC](https://en.ustc.edu.cn/), currently a research intern at the [Steward Observatory](https://astro.arizona.edu/), and will be joining Steward as a grad student this fall.
+Hi! I am a senior undergrad in Astronomy at [USTC](https://en.ustc.edu.cn/), currently a research intern at [Steward Observatory](https://astro.arizona.edu/), and will be joining as a grad student this fall.
 
 My journey began as an [amateur astronomer](/ξ), culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying research ambition. My goal is to become a “versatile astronomer,” skilled in observation, theory, simulation and instrument.
 

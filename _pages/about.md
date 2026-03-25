@@ -36,7 +36,7 @@ My journey began as an [amateur astronomer](/ξ), culminating in [a shortlisting
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 
-My undergrad research is mentored by [Prof. Ning Jiang](http://staff.ustc.edu.cn/~jnac/index.html) in [Prof. Tinggui Wang](https://scholar.google.com/citations?hl=en&user=M_GqX5oAAAAJ&view_op=list_works&sortby=pubdate)'s group at USTC, and by [Prof. Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward.
+My undergrad research is mentored by [Prof. Ning Jiang](http://staff.ustc.edu.cn/~jnac/index.html) in [Prof. Tinggui Wang](https://astro.ustc.edu.cn/2016/0113/c15007a259654/page.htm)'s group at USTC, and by [Prof. Ann Zabludoff](https://azabludoff.wixsite.com/home) at Steward.
 
 ## Research:
 

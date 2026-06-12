@@ -785,6 +785,9 @@ footer.sticky-bottom {
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
           color: var(--global-card-bg-color) !important;
+          white-space: normal;
+          line-height: 1.25;
+          text-align: center;
 
           a {
             color: white;

@@ -34,11 +34,11 @@ Hi! I am a senior undergrad in Astronomy at [USTC](https://en.ustc.edu.cn/).
 
 My journey began in [amateur astronomy](/ξ), culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying my research ambitions.
 
-My goal is to become a “versatile astronomer,” skilled in observation, theory, simulation, and instrumentation.
+[^1]: For this recognition, I was credited under my English name, Kevin Li.
 
 I am interested in a wide range of astrophysical phenomena, currently focusing on [tidal disruption events](/Research/#TDEs%20%26%20IMBHs), [intermediate-mass black holes](/Research/#TDEs%20%26%20IMBHs), [post-starburst galaxies](/Research/#PSBs), [survey forecasts](/Research/#Survey%20Forecasts), and [active galactic nuclei](/Research/#AGNs).
 
-[^1]: For this recognition, I was credited under my English name, Kevin Li.
+My goal is to become a “versatile astronomer,” skilled in observation, theory, simulation, and instrumentation.
 
 My undergrad research is mentored by [Prof. Ning Jiang](https://astro.ustc.edu.cn/2016/0114/c14965a259672/page.htm) in [Prof. Tinggui Wang](https://astro.ustc.edu.cn/2016/0113/c15007a259654/page.htm)'s group at [USTC](https://en.ustc.edu.cn/), and by [Prof. Ann Zabludoff](https://astro.arizona.edu/person/ann-zabludoff) at [Steward Observatory](https://astro.arizona.edu/).
 

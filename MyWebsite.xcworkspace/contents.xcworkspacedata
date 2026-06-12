@@ -267,6 +267,9 @@
          location = "group:_projects"
          name = "_projects">
          <FileRef
+            location = "group:2025wet.md">
+         </FileRef>
+         <FileRef
             location = "group:Off_Nuclear_AGNs.md">
          </FileRef>
          <FileRef
@@ -289,9 +292,6 @@
          </FileRef>
          <FileRef
             location = "group:TDE_FBOT_LF_Detection_Rate.md">
-         </FileRef>
-         <FileRef
-            location = "group:2025wet">
          </FileRef>
       </Group>
       <Group
@@ -478,6 +478,9 @@
       <Group
          location = "group:_pages"
          name = "_pages">
+         <FileRef
+            location = "group:outreach.md">
+         </FileRef>
          <FileRef
             location = "group:personal.md">
          </FileRef>

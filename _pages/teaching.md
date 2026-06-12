@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
+
 - Invited Lecturer, China National Astronomy Olympiad Training, Hefei (2024 & 2025)
 - Teaching Assistant, [Introduction to Astronomy](http://staff.ustc.edu.cn/~xuey/IAC/) ([Prof. Yongquan Xue](https://faculty.ustc.edu.cn/xueyongquan/zh_CN/index.htm)), USTC (2024 Fall)
 - Invited Lecturer, [International Astronomy Olympiad Chinese National Training Team](/ξ/#the-future), USTC (2024)

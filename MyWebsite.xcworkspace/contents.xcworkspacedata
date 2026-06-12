@@ -290,6 +290,9 @@
          <FileRef
             location = "group:TDE_FBOT_LF_Detection_Rate.md">
          </FileRef>
+         <FileRef
+            location = "group:2025wet">
+         </FileRef>
       </Group>
       <Group
          location = "group:_posts"

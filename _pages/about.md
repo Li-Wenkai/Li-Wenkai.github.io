@@ -26,17 +26,17 @@ latest_posts:
 <style>
 /* 往上移头像 */
 .profile {
-  margin-top: +1rem !important;  /* 负值表示往上移，可调成 -2rem、-3rem 看效果 */
+  margin-top: 0.2rem !important;  /* 负值表示往上移，可调成 -2rem、-3rem 看效果 */
 }
 </style>
 
 Hi! I am a senior undergrad in Astronomy at [USTC](https://en.ustc.edu.cn/).
 
-My journey began as an [amateur astronomer](/ξ), culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying my research ambitions.
+My journey began in [amateur astronomy](/ξ), culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying my research ambitions.
 
 My goal is to become a “versatile astronomer,” skilled in observation, theory, simulation, and instrumentation.
 
-I am interested in a wide range of astrophysical phenomena, currently focusing on [tidal disruption events](/Research/#TDEs%20%26%20IMBHs), intermediate-mass black holes(/Research/#TDEs%20%26%20IMBHs), [post-starburst galaxies](/Research/#PSBs), [survey forecasts](/Research/#Survey%20Forecasts), and [active galactic nuclei](/Research/#AGNs).
+I am interested in a wide range of astrophysical phenomena, currently focusing on [tidal disruption events](/Research/#TDEs%20%26%20IMBHs), [intermediate-mass black holes](/Research/#TDEs%20%26%20IMBHs), [post-starburst galaxies](/Research/#PSBs), [survey forecasts](/Research/#Survey%20Forecasts), and [active galactic nuclei](/Research/#AGNs).
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 

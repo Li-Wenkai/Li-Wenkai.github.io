@@ -36,7 +36,7 @@ My journey began as an [amateur astronomer](/ξ), culminating in [a shortlisting
 
 My goal is to become a “versatile astronomer,” skilled in observation, theory, simulation, and instrumentation.
 
-I am interested in a wide range of astrophysical phenomena, currently focusing on [tidal disruption events](/Research/#TDEs%20%26%20IMBHs), intermediate-mass black holes, [post-starburst galaxies](/Research/#PSBs), [survey forecasts](/Research/#Survey%20Forecasts), and [active galactic nuclei](/Research/#AGNs).
+I am interested in a wide range of astrophysical phenomena, currently focusing on [tidal disruption events](/Research/#TDEs%20%26%20IMBHs), intermediate-mass black holes(/Research/#TDEs%20%26%20IMBHs), [post-starburst galaxies](/Research/#PSBs), [survey forecasts](/Research/#Survey%20Forecasts), and [active galactic nuclei](/Research/#AGNs).
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 

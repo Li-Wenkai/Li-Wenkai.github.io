@@ -35,6 +35,12 @@ horizontal: false
 .projects .card .card-title {
   margin-top: 0 !important;        /* 避免标题上方出现额外空隙 */
 }
+
+.projects a[id]:focus,
+.projects a[id]:focus-visible {
+  outline: none;
+  box-shadow: none;
+}
 </style>
 
 <!-- pages/projects.md -->

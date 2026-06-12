@@ -40,7 +40,7 @@ I am interested in a wide range of astrophysical phenomena, currently focusing o
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 
-My undergrad research is mentored by [Prof. Ning Jiang](http://staff.ustc.edu.cn/~jnac/index.html) in [Prof. Tinggui Wang](https://astro.ustc.edu.cn/2016/0113/c15007a259654/page.htm)'s group at [USTC](https://en.ustc.edu.cn/), and by [Prof. Ann Zabludoff](https://azabludoff.wixsite.com/home) at [Steward Observatory](https://astro.arizona.edu/).
+My undergrad research is mentored by [Prof. Ning Jiang](https://astro.ustc.edu.cn/2016/0114/c14965a259672/page.htm) in [Prof. Tinggui Wang](https://astro.ustc.edu.cn/2016/0113/c15007a259654/page.htm)'s group at [USTC](https://en.ustc.edu.cn/), and by [Prof. Ann Zabludoff](https://astro.arizona.edu/person/ann-zabludoff) at [Steward Observatory](https://astro.arizona.edu/).
 
 Starting this fall, I will be working with [Prof. Kate Alexander](https://astro.arizona.edu/person/kate-alexander) as a grad student at [Steward Observatory](https://astro.arizona.edu/).
 

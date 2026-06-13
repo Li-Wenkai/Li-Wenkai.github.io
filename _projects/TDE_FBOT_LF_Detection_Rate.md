@@ -2,7 +2,7 @@
 layout: page
 title: "TDE & FBOT's LF & Detection Rate"
 short_title: "TDE & FBOT's LF & Detection Rate" # ← 新增：用于Research卡片显示
-summary: "On going with interesting results :D GIF credit: Xiaoyu Zhuang"
+summary: "On going with interesting results :D<br>GIF credit: Xiaoyu Zhuang"
 description:
 img: /assets/img/projects/Go_Zhuang.gif
 importance: 2

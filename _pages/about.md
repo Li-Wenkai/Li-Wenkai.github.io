@@ -30,7 +30,7 @@ latest_posts:
 }
 </style>
 
-Hi! I am a senior undergrad in Astronomy at [USTC](https://en.ustc.edu.cn/).
+Hi! My name is Wenkai Li. I am a senior undergrad in Astronomy at [USTC](https://en.ustc.edu.cn/).
 
 My journey began in [amateur astronomy](/ξ), culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying my research ambitions.
 

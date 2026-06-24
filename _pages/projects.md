@@ -11,6 +11,7 @@ display_categories:
   - "Survey Forecasts"
   - "Astronomy Tools"
   - "AGNs"
+  - "Just for Fun"
 horizontal: false
 ---
 

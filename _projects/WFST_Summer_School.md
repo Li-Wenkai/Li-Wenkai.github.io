@@ -2,7 +2,7 @@
 layout: page
 title: Recent Scientific Progress
 short_title: "Recent Scientific Progress" # ← 新增：用于Research卡片显示
-summary: Invited Talk @ WFST Summer Shool
+summary: Talk @ 2024 WFST Summer Shool
 description:
 img: /assets/img/projects/Recent_Scientific_Progress.png
 importance: 3

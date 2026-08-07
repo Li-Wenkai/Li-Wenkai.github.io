@@ -6,8 +6,8 @@ description:
 nav: true
 nav_order: 6
 display_categories:
-  - "Tucson (2025-2026)"
-  - "Hefei (2021-2025)"
+  - "Tucson (2025-)"
+  - "Hefei (2021-2026)"
   - "Shenzhen (2002-2021)"
 horizontal: false
 ---

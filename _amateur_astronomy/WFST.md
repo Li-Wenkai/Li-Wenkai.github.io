@@ -6,7 +6,7 @@ summary:
 description: The leading time-domain survey in the Northern Hemisphere!
 img: /assets/img/AA/Hefei/WFST.jpg
 importance: 5
-category: "Hefei (2021-2025)"
+category: "Hefei (2021-2026)"
 related_publications: true
 permalink: /ξ/Hefei/WFST
 redirect: /assets/img/AA/Hefei/WFST.jpg

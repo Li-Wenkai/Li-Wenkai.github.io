@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 5
 ---
+
 - Editor (astronomy section), USTC College of Physics Overseas Study Handbook (2026)
 - Invited Speaker, USTC College of Physics Overseas Study Sharing Session (2026)
 - President (spearheaded 40+ events), [USTC Association of Amateur Astronomy](/ξ/#ustcaaa) (2024 - 2025)

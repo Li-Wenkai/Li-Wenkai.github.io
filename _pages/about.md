@@ -30,7 +30,7 @@ latest_posts:
 }
 </style>
 
-Hi! My name is Wenkai Li. I am a senior undergrad in Astronomy at [USTC](https://en.ustc.edu.cn/).
+Hi! My name is Wenkai Li. I am a grad student at [Steward Observatory](https://astro.arizona.edu/) working with [Prof. Kate Alexander](https://astro.arizona.edu/person/kate-alexander).
 
 My journey began in [amateur astronomy](/ξ), culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying my research ambitions.
 
@@ -41,8 +41,6 @@ I am interested in a wide range of astrophysical phenomena, currently focusing o
 My goal is to become a “versatile astronomer,” skilled in observation, theory, simulation, and instrumentation.
 
 My undergrad research is mentored by [Prof. Ning Jiang](https://astro.ustc.edu.cn/2016/0114/c14965a259672/page.htm) in [Prof. Tinggui Wang](https://astro.ustc.edu.cn/2016/0113/c15007a259654/page.htm)'s group at [USTC](https://en.ustc.edu.cn/), and by [Prof. Ann Zabludoff](https://astro.arizona.edu/person/ann-zabludoff) at [Steward Observatory](https://astro.arizona.edu/).
-
-Starting this fall, I will be working with [Prof. Kate Alexander](https://astro.arizona.edu/person/kate-alexander) as a grad student at [Steward Observatory](https://astro.arizona.edu/).
 
 <style>
 @media (min-width: 576px) {

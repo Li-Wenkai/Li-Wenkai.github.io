@@ -40,7 +40,7 @@ I am interested in a wide range of astrophysical phenomena, currently focusing o
 
 My goal is to become a “versatile astronomer,” skilled in observation, theory, simulation, and instrumentation.
 
-My undergrad research is mentored by [Prof. Ning Jiang](https://astro.ustc.edu.cn/2016/0114/c14965a259672/page.htm) in [Prof. Tinggui Wang](https://astro.ustc.edu.cn/2016/0113/c15007a259654/page.htm)'s group at [USTC](https://en.ustc.edu.cn/), and by [Prof. Ann Zabludoff](https://astro.arizona.edu/person/ann-zabludoff) at [Steward Observatory](https://astro.arizona.edu/).
+My undergrad research was mentored by [Prof. Ning Jiang](https://astro.ustc.edu.cn/2016/0114/c14965a259672/page.htm) in [Prof. Tinggui Wang](https://astro.ustc.edu.cn/2016/0113/c15007a259654/page.htm)'s group at [USTC](https://en.ustc.edu.cn/), and by [Prof. Ann Zabludoff](https://astro.arizona.edu/person/ann-zabludoff) at [Steward Observatory](https://astro.arizona.edu/).
 
 <style>
 @media (min-width: 576px) {

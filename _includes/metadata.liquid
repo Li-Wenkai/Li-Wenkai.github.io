@@ -173,6 +173,8 @@
           {% capture link %}{{ site.baseurl }}/feed.xml{% endcapture %}
           {% assign sameaslinks = sameaslinks | push: link %}
         {% endcomment %}
+      {% when 'adsabs_url' %}
+        {% assign sameaslinks = sameaslinks | push: social[1] %}
       {% when 'scholar_userid' %}
         {% capture link %}https://scholar.google.com/citations?user={{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}

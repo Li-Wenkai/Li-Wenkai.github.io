@@ -34,7 +34,8 @@ orcid_id: 0009-0007-3464-417X
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 #rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: uoqIEwQAAAAJ # your Google Scholar ID
+adsabs_url: https://ui.adsabs.harvard.edu/public-libraries/-v2E-FL1Q6CBAzEs2PFj2Q # your NASA ADS public library
+# scholar_userid: uoqIEwQAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id

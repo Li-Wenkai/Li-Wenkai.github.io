@@ -62,6 +62,8 @@
       {% if social[1] == true %}
         <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
       {% endif %}
+    {% when 'adsabs_url' %}
+      <a href="{{ social[1] }}" title="NASA ADS"><i class="ai ai-ads"></i></a>
     {% when 'scholar_userid' %}
       <a href="https://scholar.google.com/citations?user={{ social[1] }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     {% when 'scopus_id' %}

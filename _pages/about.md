@@ -32,7 +32,7 @@ latest_posts:
 
 Hi! My name is Wenkai Li. I am a grad student at [Steward Observatory](https://astro.arizona.edu/) working with [Prof. Kate Alexander](https://astro.arizona.edu/person/kate-alexander).
 
-My journey began in [amateur astronomy](/ξ), culminating in [a shortlisting by the Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying my research ambitions.
+My journey began in [amateur astronomy](/ξ), culminating in [a shortlisting for Astronomy Photographer of the Year](https://www.bbc.co.uk/newsround/40727570)[^1] and solidifying my research ambitions.
 
 [^1]: For this recognition, I was credited under my English name, Kevin Li.
 

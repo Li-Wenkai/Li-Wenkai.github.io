@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
+- Graduate Student Panelist, TIMESTEP International Scholars Forum (2026)
 - Speaker, “[From Amateur to Professional Astronomer](https://www.youtube.com/watch?v=iUObhKKGEC0&t=3325s),” Space Draft (2026)
 - Editor (astronomy section), USTC College of Physics Overseas Study Handbook (2026)
 - Invited Speaker, USTC College of Physics Overseas Study Sharing Session (2026)
